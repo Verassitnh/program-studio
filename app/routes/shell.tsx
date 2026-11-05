@@ -1,3 +1,5 @@
+import { AnimatePresence } from "motion/react";
+import { useEffect, useState } from "react";
 import { redirect, useLocation, type ShouldRevalidateFunctionArgs } from "react-router";
 import { ActivityThreads, FinishSetup } from "~/components/activities";
 import { AnimatedOutlet } from "~/components/flow";
@@ -35,26 +37,51 @@ const sectionKey = (pathname: string) => {
   return "/" + parts.slice(0, parts[0] === "a" ? 2 : 1).join("/");
 };
 
+/** AnimatedOutlet's exit (flow.tsx): the outgoing route fades for 150ms before the next one mounts. */
+const OUTLET_EXIT_MS = 150;
+
+/**
+ * Whether the sidebar is in the layout. Its width must only change while the content column is invisible,
+ * or the outgoing page visibly reflows mid-fade:
+ *   into fullscreen   it starts fading out at once, and AnimatePresence keeps its width until the page has faded;
+ *   out of fullscreen it mounts once the activity has faded out, together with the dashboard fading in.
+ */
+function useSidebar(fullscreen: boolean) {
+  const [shown, setShown] = useState(!fullscreen);
+  useEffect(() => {
+    if (fullscreen) return setShown(false);
+    const t = setTimeout(() => setShown(true), OUTLET_EXIT_MS);
+    return () => clearTimeout(t);
+  }, [fullscreen]);
+  return shown && !fullscreen;
+}
+
 export default function Shell({ loaderData }: Route.ComponentProps) {
   const { pathname } = useLocation();
   // Activities are fullscreen: no sidebar on /a/*. The stage bar's ← (or Esc) returns to the dashboard.
   const fullscreen = fullscreenPath(pathname);
+  const sidebar = useSidebar(fullscreen);
   return (
     <div className="flex min-h-screen bg-white">
       {/* First tab stop: jumps past the sidebar. Hidden until focused. */}
-      {!fullscreen && (
+      {sidebar && (
         <a href="#main" className="skip-link rounded-full bg-ink px-4 py-2 text-[13px] font-medium text-white">
           Skip to content
         </a>
       )}
-      {!fullscreen && <Sidebar
-          activities={
-            <>
-              {loaderData.setup && <FinishSetup step={loaderData.setup.step} />}
-              <ActivityThreads threads={loaderData.threads} now={loaderData.now} />
-            </>
-          }
-        />}
+      <AnimatePresence initial={false}>
+        {sidebar && (
+          <Sidebar
+            key="sidebar"
+            activities={
+              <>
+                {loaderData.setup && <FinishSetup step={loaderData.setup.step} />}
+                <ActivityThreads threads={loaderData.threads} now={loaderData.now} />
+              </>
+            }
+          />
+        )}
+      </AnimatePresence>
       <main id="main" tabIndex={-1} className="flex min-w-0 grow flex-col focus:outline-none">
         <AnimatedOutlet keyOf={sectionKey} className="flex grow flex-col" />
       </main>

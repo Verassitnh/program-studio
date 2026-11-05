@@ -203,7 +203,14 @@ function UserMenu() {
 export function Sidebar({ activities }: { activities?: ReactNode }) {
   const { pathname } = useLocation();
   return (
-    <aside className="no-print sticky top-0 flex h-screen w-[248px] shrink-0 flex-col gap-7 border-r border-line bg-white px-4 py-6">
+    <motion.aside
+      // Mounted after hydration when leaving an activity: fades in with the dashboard, and out with it (the
+      // shell's AnimatePresence keeps its width until then, so the page never reflows mid-fade).
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1, transition: { duration: 0.3, ease } }}
+      exit={{ opacity: 0, transition: { duration: 0.15, ease: "easeOut" } }}
+      className="no-print sticky top-0 flex h-screen w-[248px] shrink-0 flex-col gap-7 border-r border-line bg-white px-4 py-6"
+    >
       <Link to="/" className="group/logo flex items-center gap-2.5 rounded-md px-2">
         <span
           aria-hidden
@@ -235,7 +242,7 @@ export function Sidebar({ activities }: { activities?: ReactNode }) {
         <div className="-mx-1 min-h-0 grow overflow-y-auto overscroll-contain px-1">{activities}</div>
       </nav>
       <UserMenu />
-    </aside>
+    </motion.aside>
   );
 }
 

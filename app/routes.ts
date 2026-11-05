@@ -54,6 +54,9 @@ export default [
   route("activities/new", "routes/activities.new.tsx"),
   route("activities/:activityId", "routes/activities.$activityId.tsx"),
   route("api/sync", "routes/api.sync.tsx"),
+  route("api/surveys/:surveyId", "routes/api.surveys.tsx"),
+  // Public survey link for one recipient: no shell, no sidebar, no app chrome.
+  route("s/:token", "routes/respond.tsx"),
   // Downloads.
   route("exports/:programId/:file", "routes/exports.file.tsx"),
   route("a/:activityId/outcomes/data.csv", "routes/outcomes.csv.tsx"),

@@ -183,6 +183,13 @@ function ghost(id: number, p: Program, audience: Audience, template: string, now
     gap: audience === "alumni" ? p.noJob : p.employedWithEmployer,
     gapLabel: audience === "alumni" ? `Fills up to ${p.noJob} unknown jobs` : `Asks the employers of ${p.employedWithEmployer} grads`,
     demo: null,
+    // Placeholder until the server row arrives: nothing sent yet, questions come from the template.
+    progress: { included: recipients, sent: 0, opened: 0, started: 0, completed: 0, rate: 0 },
+    demoResponses: 0,
+    questionCount: 0,
+    minutes: 0,
+    locked: false,
+    versionOf: null,
     pending: "create",
   };
 }

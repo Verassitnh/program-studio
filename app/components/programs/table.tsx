@@ -528,6 +528,8 @@ export function ColumnsMenu({ cols, onChange }: { cols: ColumnKey[]; onChange: (
   const [open, setOpen] = useState(false);
   const wrap = useRef<HTMLDivElement>(null);
   const button = useRef<HTMLButtonElement>(null);
+  /** True during a press inside the menu: that press can move focus to <main> (tabindex -1), which isn't leaving. */
+  const pressing = useRef(false);
   const panelId = useId();
   useEffect(() => {
     if (!open) return;
@@ -551,9 +553,17 @@ export function ColumnsMenu({ cols, onChange }: { cols: ColumnKey[]; onChange: (
   const hideable = COLUMNS.filter((c) => c.hideable);
   const shownCount = hideable.filter((c) => cols.includes(c.key)).length;
   return (
-    // Closes when focus moves to something outside. A click on a non-focusable label inside blurs with no
-    // relatedTarget; that must not close it (outside clicks are handled by the pointerdown listener).
-    <div ref={wrap} className="relative" onBlur={(e) => e.relatedTarget && !wrap.current?.contains(e.relatedTarget as Node) && setOpen(false)}>
+    // Closes when keyboard focus moves outside. A press on a label inside can blur to <main> or to nothing;
+    // that isn't leaving (outside presses are handled by the pointerdown listener).
+    <div
+      ref={wrap}
+      className="relative"
+      onPointerDownCapture={() => {
+        pressing.current = true;
+        setTimeout(() => (pressing.current = false));
+      }}
+      onBlur={(e) => !pressing.current && e.relatedTarget && !wrap.current?.contains(e.relatedTarget as Node) && setOpen(false)}
+    >
       <button
         ref={button}
         type="button"

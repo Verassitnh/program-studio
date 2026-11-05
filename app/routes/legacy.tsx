@@ -12,7 +12,13 @@ import type { Route } from "./+types/legacy";
  */
 export async function loader({ request }: Route.LoaderArgs) {
   const url = new URL(request.url);
-  const [section, stage] = url.pathname.split("/").filter(Boolean);
+  // Client navigations fetch "/review/explore.data?_routes=…": strip both, or the stage is missed and the
+  // internal params leak into the redirect target.
+  url.searchParams.delete("_routes");
+  url.searchParams.delete("index");
+  const [section, raw] = url.pathname.replace(/\.data$/, "").split("/").filter(Boolean);
+  // The retired outcomes steps (scan, say) open the story, as /a/:id/outcomes/{scan,say} do.
+  const stage = section === "outcomes" && (raw === "scan" || raw === "say") ? "story" : raw;
   const kind: Kind = section === "outcomes" ? "outcomes" : "review";
   const onboarding = await getOnboarding();
   if (kind === "review" && stage && RETIRED_STAGES.includes(stage) && onboarding.status !== "completed") return redirect("/onboarding");
