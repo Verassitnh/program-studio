@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "weighted-skill.schema.json",
+  "title": "Weighted benchmark skill",
+  "description": "A skill weight in an occupation benchmark. Weights are model values, not UI slider settings; the source uses a configurable normalization range, normally 1 to 5.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "weight": {
+      "type": "number",
+      "minimum": 0
+    },
+    "postingCount": {
+      "type": "integer",
+      "minimum": 0
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "skillId",
+    "weight"
+  ],
+  "examples": [
+    {
+      "skillId": "skill-programming",
+      "weight": 5,
+      "postingCount": 40
+    }
+  ]
+}

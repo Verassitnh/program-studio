@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-pii.schema.json",
+  "title": "Restricted alumni identity and contact data",
+  "description": "Sensitive identity and contact values. This schema is not an authorization policy; use synthetic data for prototypes unless handling real PII has been explicitly approved.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "studentId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "alumniId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "middleName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "fullName": {
+      "type": "string"
+    },
+    "preferredEmail": {
+      "type": "string"
+    },
+    "emails": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "phones": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "linkedInId": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "studentId": "synthetic-student-001",
+      "firstName": "Example",
+      "lastName": "Person",
+      "emails": [
+        "synthetic@example.invalid"
+      ]
+    }
+  ]
+}

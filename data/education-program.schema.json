@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "education-program.schema.json",
+  "title": "Institution education program",
+  "description": "An institution-defined program associated with an education/award record. Its identity is not assumed to match a curriculum program ID; a field-of-study code can relate the two.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/alumnipathwaysslice.class.inc",
+    "includes/classes/packet/packet_alumni_pathways.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "degreeLevel": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "academicUnit": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "academicSubunit": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "campus": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "institutionId",
+    "name"
+  ],
+  "examples": [
+    {
+      "id": "education-program-1",
+      "institutionId": "institution-1",
+      "name": "Computer Science",
+      "fieldOfStudy": {
+        "taxonomyId": "cip_2020",
+        "code": "11.0701"
+      }
+    }
+  ]
+}

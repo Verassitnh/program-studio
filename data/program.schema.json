@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "program.schema.json",
+  "title": "Curriculum program",
+  "description": "A curriculum offering with direct skill assignments, course memberships, and intended occupations. No publication workflow, review state, site/cache key, or API resource envelope is included.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc",
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "programTypeId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "learningObjectivesText": {
+      "type": "string"
+    },
+    "syllabusText": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "$ref": "curricular-skill.schema.json"
+      }
+    },
+    "courses": {
+      "type": "array",
+      "items": {
+        "$ref": "program-course.schema.json"
+      }
+    },
+    "targetOccupations": {
+      "type": "array",
+      "items": {
+        "$ref": "target-occupation.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name"
+  ],
+  "examples": [
+    {
+      "id": "program-1",
+      "institutionId": "institution-1",
+      "name": "Computer Science",
+      "programTypeId": "program-type-1",
+      "fieldOfStudy": {
+        "taxonomyId": "cip_2020",
+        "code": "11.0701"
+      },
+      "skills": [
+        {
+          "skillId": "skill-programming",
+          "isLearningObjective": true
+        }
+      ],
+      "courses": [
+        {
+          "courseId": "course-1",
+          "isRequired": true
+        }
+      ],
+      "targetOccupations": [
+        {
+          "taxonomyId": "soc_2021",
+          "code": "15-1252"
+        }
+      ]
+    }
+  ]
+}

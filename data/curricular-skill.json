@@ -1,0 +1,1830 @@
+[
+  {
+    "skillId": "domain-cost-accounting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-tax-preparation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-internal-controls",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-quickbooks",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-quality-control",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-scientific-writing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-financial-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-project-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-business-communication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-construction-estimating",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-civil-3d",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-media-writing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-interviewing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-strategic-communication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-audience-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-18885f27b5af",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-data-structures",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-4828e60247c1",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-software-testing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-b949c922b6ef",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-identity-and-access-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-network-security",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-digital-forensics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-vulnerability-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-18885f27b5af",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-cleaning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-experimental-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-statistical-modeling",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-sql",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-0d5feb54d2df",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-layout-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-b07bff47c8c6",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-typography",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-economic-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-visualization",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-654a61e7ae7d",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-econometrics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-inclusive-education",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-assessment-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-educational-technology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-control-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-circuit-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-rhetorical-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-editing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-scientific-writing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-statistical-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-gis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-field-documentation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-employment-law",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-employee-relations",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-benefits-administration",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-recruiting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-it-service-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-network-administration",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-windows-administration",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-collaboration",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.c",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cultural-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.2.a",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-public-speaking",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-search-engine-optimization",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-market-research",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-finite-element-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-engineering-drawing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-thermodynamics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-fluid-mechanics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-care-planning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-infection-prevention",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-behavioral-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-community-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-health-communication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-8c2574892063",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-epidemiology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-ethics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-clinical-documentation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-inventory-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-logistics-planning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-654a61e7ae7d",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-warehouse-operations",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-demand-forecasting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-child-development",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-classroom-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-literacy-instruction",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-embedded-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-health-communication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-research-methods",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-organizational-behavior",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-operations-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-power-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-embedded-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-matlab",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-java",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-algorithms",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-clinical-documentation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-budgeting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-business-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-project-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-water-quality-testing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-ecological-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-environmental-sampling",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-field-documentation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-application-programming-interfaces",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-distributed-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-program-evaluation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-biostatistics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-application-programming-interfaces",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-interviewing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-mechanical-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-fluid-mechanics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-classroom-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-interpretation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.b",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-experimental-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-cleaning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-infection-prevention",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-patient-education",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-patient-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-evidence-based-practice",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-anatomy-and-physiology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-medication-administration",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-visualization",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-statistical-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-organizational-behavior",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-auditing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-bookkeeping",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-financial-reporting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-financial-accounting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-a64976f1c471",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-content-strategy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-digital-marketing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-media-writing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-digital-storytelling",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-machine-learning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-materials-science",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-solidworks",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-thermodynamics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-manufacturing-processes",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-copyediting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-public-speaking",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-recruiting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-case-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-community-resources",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-social-policy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-digital-marketing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-content-strategy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-laboratory-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-molecular-biology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-evidence-based-practice",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-care-planning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cell-culture",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-laboratory-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-environmental-regulation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-research-methods",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-policy-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-data-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-microscopy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-erp-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-process-improvement",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-procurement",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-inventory-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-microscopy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-strategic-communication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-project-scheduling",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-geotechnical-engineering",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-surveying",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-autocad",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-incident-response",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-risk-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-campaign-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-consumer-behavior",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-copyediting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-research",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-auditing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-bookkeeping",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-engine-repair",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-drivetrain-repair",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-carpentry",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-construction-layout",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-concrete-construction",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-food-preparation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-menu-planning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-food-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cost-control",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-risk-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-typography",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-child-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-motor-controls",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-installation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-trauma-care",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-airway-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-patient-transport",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-emergency-communication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-medical-coding",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-medical-terminology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-icd-10-cm",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-health-information-privacy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-hvac-installation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-shop-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-system-commissioning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-technical-support",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-phlebotomy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-patient-intake",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-legal-writing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-legal-ethics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-mobility",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-wound-care",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-radiographic-positioning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-medical-terminology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-radiation-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-gas-tungsten-arc-welding",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-gas-metal-arc-welding",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-conduit-bending",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-preventive-maintenance",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-refrigeration-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-construction-layout",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-jobsite-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-hvac-installation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-civil-procedure",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electronic-discovery",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-legal-research",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "technology-4828e60247c1",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-736155b7dad3",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.B.3.k",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-user-experience-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-revenue-cycle-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-blueprint-reading",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-oxyfuel-cutting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrocardiography",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-troubleshooting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-budgeting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-medication-administration",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-lesson-planning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-early-literacy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-inclusive-education",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-kitchen-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-it-service-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-brake-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-financial-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-building-codes",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-knife-skills",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-conduit-bending",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-emergency-communication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-emergency-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-shop-safety",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cloud-computing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-appointment-scheduling",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-sensors-and-instrumentation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-hydraulics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-erp-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-blueprint-reading",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-metal-fabrication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-welding-inspection",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-oxyfuel-cutting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-gas-tungsten-arc-welding",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-industrial-robotics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-programmable-logic-controllers",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-national-electrical-code",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-automotive-diagnostics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-service-documentation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-internal-controls",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-b07bff47c8c6",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-figma",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-visual-communication",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-consumer-behavior",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-search-engine-optimization",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-client-advocacy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-ethics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-crisis-intervention",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-editing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-hybrid-vehicle-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-troubleshooting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-baking",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-menu-planning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-cost-control",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-lesson-planning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-family-engagement",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-electrical-installation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-controls-troubleshooting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-pneumatics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-vital-signs-monitoring",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-shielded-metal-arc-welding",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-welding-inspection",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-demand-forecasting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-service-documentation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-carpentry",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-revenue-cycle-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-data-quality",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-biostatistics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-health-promotion",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-image-evaluation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-health-promotion",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.a",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.e",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.d",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.B.1.a",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.B.4.e",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.A.1.f",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-financial-accounting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-tax-preparation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-financial-reporting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-business-communication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "onet-skill-2.A.2.a",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-a64976f1c471",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-hr-information-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-training-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-performance-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-hr-information-systems",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-employee-relations",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-quality-control",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-molecular-biology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-data-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-data-interpretation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "onet-skill-2.A.1.c",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-ecological-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-gis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-environmental-sampling",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-bebcb3119440",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-figma",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-quantitative-reasoning",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-quantitative-reasoning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-operations-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-surveying",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-construction-estimating",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-structural-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-geotechnical-engineering",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-hydrology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-hydrology",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-structural-analysis",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-civil-3d",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-software-testing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-sql",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-algorithms",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-technical-support",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-network-administration",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-736155b7dad3",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-machine-learning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-manufacturing-processes",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-signal-processing",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-power-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-pcb-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-signal-processing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-video-production",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-video-production",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-identity-and-access-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-incident-response",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-digital-forensics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-0d5feb54d2df",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-layout-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-economic-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-policy-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-educational-technology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-literacy-instruction",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-assessment-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-family-engagement",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-child-development",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-social-policy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-crisis-intervention",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-client-advocacy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-community-resources",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-case-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-pcb-design",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-research",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-environmental-regulation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-training-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-cloud-computing",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "onet-skill-2.B.3.k",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-information-literacy",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-market-research",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-materials-science",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-anatomy-and-physiology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-education",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-program-evaluation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-epidemiology",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "onet-skill-2.A.1.b",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-warehouse-operations",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-8c2574892063",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "technology-b949c922b6ef",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-benefits-administration",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-audience-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-digital-storytelling",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-quickbooks",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-finite-element-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-vulnerability-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-distributed-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-econometrics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-cell-culture",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-autocad",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-network-security",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-campaign-management",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-control-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-cost-accounting",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-procurement",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-logistics-planning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-legal-ethics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-document-preparation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-hybrid-vehicle-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-engine-repair",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-shielded-metal-arc-welding",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-gas-metal-arc-welding",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-controls-troubleshooting",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-concrete-construction",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-jobsite-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-user-experience-design",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-visual-communication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-food-preparation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-food-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-windows-administration",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-early-literacy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-developmental-assessment",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-developmental-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-national-electrical-code",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-wound-care",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-phlebotomy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-electrocardiography",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-medical-coding",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-data-quality",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-icd-10-cm",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-health-information-privacy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-system-commissioning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-cultural-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-collaboration",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-mobility",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-vital-signs-monitoring",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-image-evaluation",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-radiographic-positioning",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-drivetrain-repair",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-automotive-diagnostics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-refrigeration-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-motor-controls",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-building-codes",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-industrial-robotics",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-sensors-and-instrumentation",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-business-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-kitchen-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-knife-skills",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-emergency-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-transport",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-appointment-scheduling",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-preventive-maintenance",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-programmable-logic-controllers",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-metal-fabrication",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-information-literacy",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-behavioral-assessment",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-rhetorical-analysis",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-brake-systems",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-pneumatics",
+    "isLearningObjective": true
+  },
+  {
+    "skillId": "domain-project-scheduling",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-baking",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-child-safety",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-airway-management",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-patient-intake",
+    "isLearningObjective": false
+  },
+  {
+    "skillId": "domain-community-assessment",
+    "isLearningObjective": false
+  }
+]

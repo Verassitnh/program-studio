@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "geography.schema.json",
+  "title": "Geographic area",
+  "description": "A geographic area in a named classification. Applicable to countries, regions, counties, cities, and other geographic levels; codes are never silently converted to numbers.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/classificationapi.inc",
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "taxonomyId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "code": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level": {
+      "type": "string"
+    },
+    "parent": {
+      "$ref": "common.schema.json#/definitions/classification"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "taxonomyId",
+    "code",
+    "name"
+  ],
+  "examples": [
+    {
+      "taxonomyId": "us_fips",
+      "code": "53063",
+      "name": "Spokane County",
+      "level": "county"
+    }
+  ]
+}

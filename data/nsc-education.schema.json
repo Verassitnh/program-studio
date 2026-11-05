@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "nsc-education.schema.json",
+  "title": "Clearinghouse education history",
+  "description": "One institution enrollment/award observation from NSC. Prior, institution, and subsequent education share this shape; relationship identifies their timing relative to the focal institution education record.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "relationship": {
+      "enum": [
+        "prior",
+        "institution",
+        "subsequent"
+      ]
+    },
+    "institution": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "institutionIdentifiers": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/definitions/classification"
+      }
+    },
+    "institutionCategory": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "institutionLocation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "startDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "endDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "completionDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "semesters": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "degreeLevel": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "degreeTitle": {
+      "type": "string"
+    },
+    "enrollmentStatus": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "enrollmentLevel": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "completed": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "relationship",
+    "institution"
+  ],
+  "examples": [
+    {
+      "relationship": "subsequent",
+      "institution": {
+        "id": "institution-2",
+        "name": "Example University"
+      },
+      "institutionIdentifiers": [
+        {
+          "taxonomyId": "ipeds",
+          "code": "000002"
+        }
+      ],
+      "startDate": "2021-09",
+      "completionDate": "2023-05",
+      "completed": true
+    }
+  ]
+}

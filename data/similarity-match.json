@@ -1,0 +1,5154 @@
+[
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "score": 0.341463,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.333333,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.25641,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.272727,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "score": 0.375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.15,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.15,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "score": 0.482759,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "score": 0.4375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.304348,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "score": 0.244898,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.214286,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.305556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.25641,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.357143,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.333333,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "score": 0.311111,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "score": 0.3,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.243902,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.225,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "score": 0.4375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "score": 0.235294,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "score": 0.456522,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.302326,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "score": 0.244898,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.211538,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.207547,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "score": 0.533333,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.219512,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.3,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "score": 0.130435,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.096774,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "score": 0.088235,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.538462,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.393939,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.171429,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.424242,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.225,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "score": 0.538462,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.4375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "score": 0.212121,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.4375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.424242,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "score": 0.393939,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "score": 0.170213,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "score": 0.159091,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.142857,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "score": 0.459459,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.288889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.170213,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "score": 0.459459,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "score": 0.294118,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.184211,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.179487,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.159091,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.157895,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "score": 0.296296,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "score": 0.085714,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.357143,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "score": 0.288889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.268293,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "score": 0.207547,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.204545,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "score": 0.294118,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.451613,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.176471,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.176471,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "score": 0.171429,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "score": 0.4,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.204545,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "score": 0.448276,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.171429,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "score": 0.451613,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "score": 0.230769,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.4,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.184211,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "score": 0.171429,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.157895,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "score": 0.113636,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "score": 0.448276,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.212121,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1029.00",
+      "name": "Biological Scientists, All Other"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.347826,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "score": 0.382353,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.268293,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.243902,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "score": 0.625,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.235294,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1029.00",
+      "name": "Biological Scientists, All Other"
+    },
+    "score": 0.347826,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.235294,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.625,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.473684,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.294118,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.27027,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.257143,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "score": 0.382353,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.208333,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.195122,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.473684,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "score": 0.304348,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "score": 0.3,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.292683,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.255319,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.229167,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.277778,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.27027,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.255319,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "score": 0.518519,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.517241,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "score": 0.235294,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.179487,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "score": 0.179487,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.176471,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "score": 0.518519,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.366667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.193548,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.176471,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    },
+    "score": 0.296296,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "score": 0.205128,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "score": 0.195652,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "score": 0.394737,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "score": 0.302326,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.277778,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "score": 0.456522,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.428571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.394737,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.351351,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "score": 0.195652,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.186047,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.565217,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "score": 0.351351,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.275862,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.565217,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "score": 0.428571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.275862,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.228571,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.354839,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.289474,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.243243,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "score": 0.212121,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.210526,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.183673,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.305556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.264706,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.257143,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "score": 0.243243,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "score": 0.714286,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "score": 0.125,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.121951,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.121212,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.121212,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.1,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "score": 0.714286,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.096774,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.095238,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.088235,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.088235,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.387097,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "score": 0.354839,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.241379,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "score": 0.130435,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "score": 0.125,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.088235,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.387097,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.305556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "score": 0.289474,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.277778,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.555556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "score": 0.482759,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.1875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "score": 0.555556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.305556,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "score": 0.272727,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "score": 0.517241,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "score": 0.366667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.294118,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.236842,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "score": 0.258065,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.225806,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "score": 0.214286,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "score": 0.212121,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.1875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "score": 0.285714,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.277778,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.264706,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "score": 0.241379,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "score": 0.533333,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.285714,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.230769,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "score": 0.195122,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "score": 0.388889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.292683,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.275862,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.275862,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.212121,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "score": 0.1875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "score": 0.388889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "score": 0.341463,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "score": 0.311111,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "score": 0.3,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "score": 0.225,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.195122,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "score": 0.375,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "score": 0.222222,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "score": 0.216216,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "score": 0.21875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "score": 0.1875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "score": 0.2,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.1875,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "score": 0.138889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "score": 0.138889,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "score": 0.25,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.179487,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "score": 0.5,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "score": 0.242424,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "score": 0.205882,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "score": 0.194444,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "score": 0.128205,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.1,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "score": 0.189189,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "score": 0.166667,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "score": 0.153846,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "score": 0.146341,
+    "model": "shared-skill-jaccard-demo-v2"
+  },
+  {
+    "subject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "relatedSubject": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "score": 0.142857,
+    "model": "shared-skill-jaccard-demo-v2"
+  }
+]

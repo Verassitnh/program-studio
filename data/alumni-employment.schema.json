@@ -1,0 +1,143 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-employment.schema.json",
+  "title": "Alumni employment observation",
+  "description": "Profile-derived employment with modeled wage estimates. Occupation, employer, and title are data references, not display names split across legacy companion columns.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "employer": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "jobTitle": {
+      "type": "string"
+    },
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "industry": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "startDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "endDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "employedInField": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "startedAfterGraduation": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "estimatedWage": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "estimatedWage25thPercentile": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "estimatedWage75thPercentile": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "occupationWage10thPercentile": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "occupationMedianWage": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "occupationWage90thPercentile": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "occupationAverageWage": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "employer": {
+        "id": "employer-1",
+        "name": "Example Employer"
+      },
+      "jobTitle": "Software Developer",
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "employedInField": true,
+      "estimatedWage": {
+        "amount": 85000,
+        "currency": "USD",
+        "period": "year"
+      }
+    }
+  ]
+}

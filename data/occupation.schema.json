@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "occupation.schema.json",
+  "title": "Occupation",
+  "description": "An occupation in a named classification, retaining its taxonomy and level rather than relying on a bare code.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/classificationapi.inc",
+    "includes/classes/packet/packet_skillabi.class.inc",
+    "includes/classes/alumnipathwaysslice.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "taxonomyId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "code": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "taxonomyId",
+    "code",
+    "name"
+  ],
+  "examples": [
+    {
+      "taxonomyId": "soc_2021",
+      "code": "15-1252",
+      "name": "Software Developers",
+      "level": "5"
+    }
+  ]
+}

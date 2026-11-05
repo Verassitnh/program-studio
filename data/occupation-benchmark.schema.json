@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "occupation-benchmark.schema.json",
+  "title": "Occupation skill benchmark",
+  "description": "A weighted skill benchmark with explicit occupation, geographic, and time context. Skills are ordinary records in an array, not an object keyed by skill IDs.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "geography": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "period": {
+      "$ref": "common.schema.json#/definitions/period"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "$ref": "weighted-skill.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "occupation",
+    "geography",
+    "period",
+    "skills"
+  ],
+  "examples": [
+    {
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "geography": {
+        "taxonomyId": "us_fips",
+        "code": "53063"
+      },
+      "period": {
+        "start": "2023-01",
+        "end": "2023-12"
+      },
+      "skills": [
+        {
+          "skillId": "skill-programming",
+          "weight": 5,
+          "postingCount": 40
+        }
+      ]
+    }
+  ]
+}

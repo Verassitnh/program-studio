@@ -1,0 +1,5780 @@
+[
+  {
+    "id": "education-north-sound-state-accounting-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Accounting, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-biology-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Biology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-civil-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Civil Engineering, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.0801",
+      "name": "Civil Engineering, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-civil",
+      "name": "Civil Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-communication-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Communication Studies, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-communication",
+      "name": "Communication Studies"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cyber-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Cybersecurity, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cyber",
+      "name": "Cybersecurity"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-data-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Data Science, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-data",
+      "name": "Data Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-data-master",
+    "institutionId": "north-sound-state",
+    "name": "Data Science, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-data",
+      "name": "Data Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-design-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Graphic Design, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-design",
+      "name": "Graphic Design"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-economics-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Economics, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-economics",
+      "name": "Economics"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-education-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Elementary Education, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-education",
+      "name": "Elementary Education"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-ee-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Electrical Engineering, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-ee",
+      "name": "Electrical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-english-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "English, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-english",
+      "name": "English"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-environment-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Environmental Science, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-environment",
+      "name": "Environmental Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-hr-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Human Resources Management, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1001",
+      "name": "Human Resources Management/Personnel Administration, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-hr",
+      "name": "Human Resources Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-it-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Information Technology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-liberal-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Liberal Arts, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-liberal",
+      "name": "Liberal Arts"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-marketing-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Marketing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-marketing",
+      "name": "Marketing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-me-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Mechanical Engineering, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-me",
+      "name": "Mechanical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-nursing-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Nursing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-psychology-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Psychology, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-publichealth-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Public Health, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-socialwork-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Social Work, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-socialwork",
+      "name": "Social Work"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-supply-bachelor",
+    "institutionId": "north-sound-state",
+    "name": "Supply Chain Management, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-education-bachelor-literacy",
+    "institutionId": "north-sound-state",
+    "name": "Elementary Education — Literacy, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-education",
+      "name": "Elementary Education"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-ee-master",
+    "institutionId": "north-sound-state",
+    "name": "Electrical Engineering, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-ee",
+      "name": "Electrical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-publichealth-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Public Health, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-bachelor-operations",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration — Operations, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-ee-bachelor-power-systems",
+    "institutionId": "north-sound-state",
+    "name": "Electrical Engineering — Power Systems, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-ee",
+      "name": "Electrical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-master",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-socialwork-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Social Work, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-socialwork",
+      "name": "Social Work"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-bachelor-entrepreneurship",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration — Entrepreneurship, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-environment-bachelor-water-resources",
+    "institutionId": "north-sound-state",
+    "name": "Environmental Science — Water Resources, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-environment",
+      "name": "Environmental Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-hr-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Human Resources Management, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1001",
+      "name": "Human Resources Management/Personnel Administration, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-hr",
+      "name": "Human Resources Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-bachelor-data-systems",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science — Data Systems, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-publichealth-master",
+    "institutionId": "north-sound-state",
+    "name": "Public Health, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-bachelor-software-engineering",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science — Software Engineering, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-communication-bachelor-strategic-communication",
+    "institutionId": "north-sound-state",
+    "name": "Communication Studies — Strategic Communication, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-communication",
+      "name": "Communication Studies"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-economics-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Economics, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-economics",
+      "name": "Economics"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-me-bachelor-manufacturing",
+    "institutionId": "north-sound-state",
+    "name": "Mechanical Engineering — Manufacturing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-me",
+      "name": "Mechanical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-bachelor-management",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration — Management, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-education-bachelor-stem-education",
+    "institutionId": "north-sound-state",
+    "name": "Elementary Education — STEM Education, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-education",
+      "name": "Elementary Education"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-psychology-bachelor-organizational-psychology",
+    "institutionId": "north-sound-state",
+    "name": "Psychology — Organizational Psychology, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-psychology-bachelor-behavioral-health",
+    "institutionId": "north-sound-state",
+    "name": "Psychology — Behavioral Health, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-data-bachelor-machine-learning",
+    "institutionId": "north-sound-state",
+    "name": "Data Science — Machine Learning, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-data",
+      "name": "Data Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-nursing-bachelor-community-health",
+    "institutionId": "north-sound-state",
+    "name": "Nursing — Community Health, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-nursing-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Nursing, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-data-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Data Science, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-data",
+      "name": "Data Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-psychology-master",
+    "institutionId": "north-sound-state",
+    "name": "Psychology, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-nursing-bachelor-nursing-leadership",
+    "institutionId": "north-sound-state",
+    "name": "Nursing — Nursing Leadership, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-master",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration, M.B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-business-bachelor-business-analytics",
+    "institutionId": "north-sound-state",
+    "name": "Business Administration — Business Analytics, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-accounting-bachelor-accounting-analytics",
+    "institutionId": "north-sound-state",
+    "name": "Accounting — Accounting Analytics, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-marketing-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Marketing, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-marketing",
+      "name": "Marketing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-communication-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Communication Studies, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-communication",
+      "name": "Communication Studies"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-data-bachelor-data-engineering",
+    "institutionId": "north-sound-state",
+    "name": "Data Science — Data Engineering, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-data",
+      "name": "Data Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-accounting-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Accounting, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-me-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Mechanical Engineering, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-me",
+      "name": "Mechanical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cyber-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Cybersecurity, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cyber",
+      "name": "Cybersecurity"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-me-bachelor-energy-systems",
+    "institutionId": "north-sound-state",
+    "name": "Mechanical Engineering — Energy Systems, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-me",
+      "name": "Mechanical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-english-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "English, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-english",
+      "name": "English"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-hr-master",
+    "institutionId": "north-sound-state",
+    "name": "Human Resources Management, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1001",
+      "name": "Human Resources Management/Personnel Administration, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-hr",
+      "name": "Human Resources Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-socialwork-master",
+    "institutionId": "north-sound-state",
+    "name": "Social Work, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-socialwork",
+      "name": "Social Work"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-marketing-bachelor-digital-marketing",
+    "institutionId": "north-sound-state",
+    "name": "Marketing — Digital Marketing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-marketing",
+      "name": "Marketing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-biology-bachelor-molecular-biology",
+    "institutionId": "north-sound-state",
+    "name": "Biology — Molecular Biology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-nursing-master",
+    "institutionId": "north-sound-state",
+    "name": "Nursing, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-accounting-bachelor-taxation",
+    "institutionId": "north-sound-state",
+    "name": "Accounting — Taxation, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-me-master",
+    "institutionId": "north-sound-state",
+    "name": "Mechanical Engineering, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-me",
+      "name": "Mechanical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-biology-bachelor-ecology",
+    "institutionId": "north-sound-state",
+    "name": "Biology — Ecology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-environment-master",
+    "institutionId": "north-sound-state",
+    "name": "Environmental Science, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-environment",
+      "name": "Environmental Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-economics-master",
+    "institutionId": "north-sound-state",
+    "name": "Economics, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-economics",
+      "name": "Economics"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-psychology-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Psychology, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cs-bachelor-human-computer-interaction",
+    "institutionId": "north-sound-state",
+    "name": "Computer Science — Human-Computer Interaction, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-biology-master",
+    "institutionId": "north-sound-state",
+    "name": "Biology, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-supply-master",
+    "institutionId": "north-sound-state",
+    "name": "Supply Chain Management, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-supply-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Supply Chain Management, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-biology-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Biology, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-communication-master",
+    "institutionId": "north-sound-state",
+    "name": "Communication Studies, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-communication",
+      "name": "Communication Studies"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-civil-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Civil Engineering, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.0801",
+      "name": "Civil Engineering, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-civil",
+      "name": "Civil Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-cyber-master",
+    "institutionId": "north-sound-state",
+    "name": "Cybersecurity, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-cyber",
+      "name": "Cybersecurity"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-marketing-master",
+    "institutionId": "north-sound-state",
+    "name": "Marketing, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-marketing",
+      "name": "Marketing"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-civil-master",
+    "institutionId": "north-sound-state",
+    "name": "Civil Engineering, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.0801",
+      "name": "Civil Engineering, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-civil",
+      "name": "Civil Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-accounting-master",
+    "institutionId": "north-sound-state",
+    "name": "Accounting, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-education-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Elementary Education, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-education",
+      "name": "Elementary Education"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-education-master",
+    "institutionId": "north-sound-state",
+    "name": "Elementary Education, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-education",
+      "name": "Elementary Education"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-ee-bachelor-embedded-systems",
+    "institutionId": "north-sound-state",
+    "name": "Electrical Engineering — Embedded Systems, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-ee",
+      "name": "Electrical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-ee-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Electrical Engineering, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-ee",
+      "name": "Electrical Engineering"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-english-master",
+    "institutionId": "north-sound-state",
+    "name": "English, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-english",
+      "name": "English"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-north-sound-state-environment-graduate-certificate",
+    "institutionId": "north-sound-state",
+    "name": "Environmental Science, Graduate Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "graduate-certificate",
+      "name": "Post-baccalaureate certificate"
+    },
+    "academicUnit": {
+      "id": "division-north-sound-state-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-north-sound-state-environment",
+      "name": "Environmental Science"
+    },
+    "campus": {
+      "id": "campus-north-sound-state",
+      "name": "Main Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-accounting-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Accounting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-auto-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Automotive Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-auto",
+      "name": "Automotive Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-biology-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Biology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-business-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Business Administration, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-construction-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Construction Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-culinary-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Culinary Arts, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-hospitality",
+      "name": "Hospitality"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-culinary",
+      "name": "Culinary Arts"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-cyber-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Cybersecurity, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-cyber",
+      "name": "Cybersecurity"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-design-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Graphic Design, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-design",
+      "name": "Graphic Design"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-earlychild-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Early Childhood Education, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1210",
+      "name": "Early Childhood Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-earlychild",
+      "name": "Early Childhood Education"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-electrical-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Electrical Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-emt-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Emergency Medical Services, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-emt",
+      "name": "Emergency Medical Services"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-hit-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Health Information Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0707",
+      "name": "Health Information/Medical Records Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-hit",
+      "name": "Health Information Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-hvac-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Heating, Ventilation and Air Conditioning, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-it-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Information Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-liberal-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Liberal Arts, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-liberal",
+      "name": "Liberal Arts"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-ma-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Medical Assisting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-nursing-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Nursing, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-paralegal-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Paralegal Studies, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "22.0302",
+      "name": "Legal Assistant/Paralegal."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-paralegal",
+      "name": "Paralegal Studies"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-pn-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Practical Nursing, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3901",
+      "name": "Licensed Practical/Vocational Nurse Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-pn",
+      "name": "Practical Nursing"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-psychology-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Psychology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-rad-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Radiologic Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0911",
+      "name": "Radiologic Technology/Science - Radiographer."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-rad",
+      "name": "Radiologic Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-supply-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Supply Chain Management, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-welding-associate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Welding Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-electrical-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Electrical Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-hvac-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Heating, Ventilation and Air Conditioning, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-business-certificate-office-administration",
+    "institutionId": "spokane-valley-cc",
+    "name": "Business Administration — Office Administration, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-construction-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Construction Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-hvac-apprenticeship",
+    "institutionId": "spokane-valley-cc",
+    "name": "Heating, Ventilation and Air Conditioning, Apprenticeship",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-biology-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Biology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-paralegal-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Paralegal Studies, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "22.0302",
+      "name": "Legal Assistant/Paralegal."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-paralegal",
+      "name": "Paralegal Studies"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-it-certificate-network-support",
+    "institutionId": "spokane-valley-cc",
+    "name": "Information Technology — Network Support, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-design-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Graphic Design, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-design",
+      "name": "Graphic Design"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-hit-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Health Information Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0707",
+      "name": "Health Information/Medical Records Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-hit",
+      "name": "Health Information Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-welding-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Welding Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-ma-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Medical Assisting, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-electrical-apprenticeship",
+    "institutionId": "spokane-valley-cc",
+    "name": "Electrical Technology, Apprenticeship",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-business-certificate-small-business",
+    "institutionId": "spokane-valley-cc",
+    "name": "Business Administration — Small Business, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-liberal-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Liberal Arts, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-liberal",
+      "name": "Liberal Arts"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-supply-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Supply Chain Management, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-accounting-certificate-bookkeeping",
+    "institutionId": "spokane-valley-cc",
+    "name": "Accounting — Bookkeeping, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-nursing-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Nursing, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-welding-apprenticeship",
+    "institutionId": "spokane-valley-cc",
+    "name": "Welding Technology, Apprenticeship",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-earlychild-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Early Childhood Education, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1210",
+      "name": "Early Childhood Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-earlychild",
+      "name": "Early Childhood Education"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-business-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Business Administration, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-culinary-certificate",
+    "institutionId": "spokane-valley-cc",
+    "name": "Culinary Arts, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-hospitality",
+      "name": "Hospitality"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-culinary",
+      "name": "Culinary Arts"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-spokane-valley-cc-it-certificate-cloud-support",
+    "institutionId": "spokane-valley-cc",
+    "name": "Information Technology — Cloud Support, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-spokane-valley-cc-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-spokane-valley-cc-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-spokane-valley-cc",
+      "name": "River Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-accounting-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Accounting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-auto-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Automotive Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-auto",
+      "name": "Automotive Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-business-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Business Administration, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-construction-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Construction Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-culinary-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Culinary Arts, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-hospitality",
+      "name": "Hospitality"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-culinary",
+      "name": "Culinary Arts"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-electrical-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Electrical Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-emt-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Emergency Medical Services, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-emt",
+      "name": "Emergency Medical Services"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-hvac-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Heating, Ventilation and Air Conditioning, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-it-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Information Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-ma-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Medical Assisting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-mechatronics-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Mechatronics, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "15.0407",
+      "name": "Mechatronics, Robotics, and Automation Engineering Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-mechatronics",
+      "name": "Mechatronics"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-supply-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Supply Chain Management, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-welding-associate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Welding Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-welding-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Welding Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-supply-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Supply Chain Management, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-business-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Business Administration, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-it-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Information Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-mechatronics-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Mechatronics, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "15.0407",
+      "name": "Mechatronics, Robotics, and Automation Engineering Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-mechatronics",
+      "name": "Mechatronics"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-accounting-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Accounting, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-welding-certificate-pipe-welding",
+    "institutionId": "columbia-basin-tech",
+    "name": "Welding Technology — Pipe Welding, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-business-certificate-office-administration",
+    "institutionId": "columbia-basin-tech",
+    "name": "Business Administration — Office Administration, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-business-certificate-small-business",
+    "institutionId": "columbia-basin-tech",
+    "name": "Business Administration — Small Business, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-construction-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Construction Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-electrical-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Electrical Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-auto-certificate",
+    "institutionId": "columbia-basin-tech",
+    "name": "Automotive Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-auto",
+      "name": "Automotive Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-accounting-certificate-bookkeeping",
+    "institutionId": "columbia-basin-tech",
+    "name": "Accounting — Bookkeeping, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-accounting",
+      "name": "Accounting"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-columbia-basin-tech-it-certificate-network-support",
+    "institutionId": "columbia-basin-tech",
+    "name": "Information Technology — Network Support, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-columbia-basin-tech-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-columbia-basin-tech-it",
+      "name": "Information Technology"
+    },
+    "campus": {
+      "id": "campus-columbia-basin-tech",
+      "name": "Columbia Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-biology-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Biology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-biology",
+      "name": "Biology"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-business-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Business Administration, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-communication-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Communication Studies, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-communication",
+      "name": "Communication Studies"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-cs-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Computer Science, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-computing-and-engineering",
+      "name": "Computing and Engineering"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-cs",
+      "name": "Computer Science"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-design-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Graphic Design, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-design",
+      "name": "Graphic Design"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-economics-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Economics, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-economics",
+      "name": "Economics"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-english-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "English, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-english",
+      "name": "English"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-environment-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Environmental Science, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-environment",
+      "name": "Environmental Science"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-liberal-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Liberal Arts, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-liberal",
+      "name": "Liberal Arts"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-marketing-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Marketing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-marketing",
+      "name": "Marketing"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-psychology-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Psychology, B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-socialwork-bachelor",
+    "institutionId": "willow-creek-college",
+    "name": "Social Work, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-socialwork",
+      "name": "Social Work"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-psychology-master",
+    "institutionId": "willow-creek-college",
+    "name": "Psychology, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-psychology",
+      "name": "Psychology"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-business-master",
+    "institutionId": "willow-creek-college",
+    "name": "Business Administration, M.B.A.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-socialwork-master",
+    "institutionId": "willow-creek-college",
+    "name": "Social Work, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-socialwork",
+      "name": "Social Work"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-willow-creek-college-english-master",
+    "institutionId": "willow-creek-college",
+    "name": "English, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-willow-creek-college-arts-and-sciences",
+      "name": "Arts and Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-willow-creek-college-english",
+      "name": "English"
+    },
+    "campus": {
+      "id": "campus-willow-creek-college",
+      "name": "Woodland Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-auto-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Automotive Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-auto",
+      "name": "Automotive Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-business-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Business Administration, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-construction-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Construction Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-culinary-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Culinary Arts, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-hospitality",
+      "name": "Hospitality"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-culinary",
+      "name": "Culinary Arts"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-earlychild-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Early Childhood Education, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1210",
+      "name": "Early Childhood Education and Teaching."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-education-and-human-services",
+      "name": "Education and Human Services"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-earlychild",
+      "name": "Early Childhood Education"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-electrical-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Electrical Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-electrical",
+      "name": "Electrical Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-hvac-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Heating, Ventilation and Air Conditioning, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-hvac-certificate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Heating, Ventilation and Air Conditioning, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-hvac",
+      "name": "Heating, Ventilation and Air Conditioning"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-ma-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Medical Assisting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-mechatronics-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Mechatronics, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "15.0407",
+      "name": "Mechatronics, Robotics, and Automation Engineering Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-mechatronics",
+      "name": "Mechatronics"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-pn-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Practical Nursing, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3901",
+      "name": "Licensed Practical/Vocational Nurse Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-pn",
+      "name": "Practical Nursing"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-supply-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Supply Chain Management, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-welding-associate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Welding Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-welding-apprenticeship",
+    "institutionId": "yakima-valley-poly",
+    "name": "Welding Technology, Apprenticeship",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-welding",
+      "name": "Welding Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-business-certificate-office-administration",
+    "institutionId": "yakima-valley-poly",
+    "name": "Business Administration — Office Administration, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-supply-certificate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Supply Chain Management, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-supply",
+      "name": "Supply Chain Management"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-auto-certificate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Automotive Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-auto",
+      "name": "Automotive Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-construction-certificate",
+    "institutionId": "yakima-valley-poly",
+    "name": "Construction Technology, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-skilled-trades",
+      "name": "Skilled Trades"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-construction",
+      "name": "Construction Technology"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-yakima-valley-poly-business-certificate-small-business",
+    "institutionId": "yakima-valley-poly",
+    "name": "Business Administration — Small Business, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-yakima-valley-poly-business",
+      "name": "Business"
+    },
+    "academicSubunit": {
+      "id": "department-yakima-valley-poly-business",
+      "name": "Business Administration"
+    },
+    "campus": {
+      "id": "campus-yakima-valley-poly",
+      "name": "Yakima Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-emt-associate",
+    "institutionId": "rainier-health",
+    "name": "Emergency Medical Services, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-emt",
+      "name": "Emergency Medical Services"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-hit-associate",
+    "institutionId": "rainier-health",
+    "name": "Health Information Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0707",
+      "name": "Health Information/Medical Records Technology/Technician."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-hit",
+      "name": "Health Information Technology"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-ma-associate",
+    "institutionId": "rainier-health",
+    "name": "Medical Assisting, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-nursing-bachelor",
+    "institutionId": "rainier-health",
+    "name": "Nursing, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-pn-associate",
+    "institutionId": "rainier-health",
+    "name": "Practical Nursing, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3901",
+      "name": "Licensed Practical/Vocational Nurse Training."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-pn",
+      "name": "Practical Nursing"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-publichealth-bachelor",
+    "institutionId": "rainier-health",
+    "name": "Public Health, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-rad-associate",
+    "institutionId": "rainier-health",
+    "name": "Radiologic Technology, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0911",
+      "name": "Radiologic Technology/Science - Radiographer."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-rad",
+      "name": "Radiologic Technology"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-rad-bachelor",
+    "institutionId": "rainier-health",
+    "name": "Radiologic Technology, B.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0911",
+      "name": "Radiologic Technology/Science - Radiographer."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "bachelor",
+      "name": "Bachelor degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-rad",
+      "name": "Radiologic Technology"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-nursing-associate",
+    "institutionId": "rainier-health",
+    "name": "Nursing, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-publichealth-associate",
+    "institutionId": "rainier-health",
+    "name": "Public Health, A.A.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "associate",
+      "name": "Associate degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-ma-certificate",
+    "institutionId": "rainier-health",
+    "name": "Medical Assisting, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-ma",
+      "name": "Medical Assisting"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-nursing-master",
+    "institutionId": "rainier-health",
+    "name": "Nursing, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-nursing",
+      "name": "Nursing"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-publichealth-master",
+    "institutionId": "rainier-health",
+    "name": "Public Health, M.S.",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "master",
+      "name": "Master degree"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-publichealth",
+      "name": "Public Health"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  },
+  {
+    "id": "education-rainier-health-emt-certificate",
+    "institutionId": "rainier-health",
+    "name": "Emergency Medical Services, Certificate",
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "degreeLevel": {
+      "taxonomyId": "demo:degree-level",
+      "code": "certificate",
+      "name": "Postsecondary certificate"
+    },
+    "academicUnit": {
+      "id": "division-rainier-health-health-sciences",
+      "name": "Health Sciences"
+    },
+    "academicSubunit": {
+      "id": "department-rainier-health-emt",
+      "name": "Emergency Medical Services"
+    },
+    "campus": {
+      "id": "campus-rainier-health",
+      "name": "Tacoma Campus"
+    }
+  }
+]

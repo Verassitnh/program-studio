@@ -1,0 +1,141 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Geist", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-bg: #ffffff;
+  --color-surface: #f7f7f7;
+  --color-surface-hover: #f2f2f2;
+  --color-row-hover: #fbfbfb;
+  --color-line: #ebe9e9;
+  --color-line-hover: #dcdada;
+  /* Fills, dots and decorative borders. Too light for text (2.7:1 on white); text-muted uses the text role below. */
+  --color-muted: #9d9d9d;
+  /* Boundary of an interactive control (checkbox): 3.4:1 on white, WCAG 1.4.11. */
+  --color-control: #8a8a8a;
+  --color-subtle: #525252;
+  --color-text: #242222;
+  --color-ink: #000000;
+  --color-ink-hover: #1c1c1c;
+  --color-red: #f54562;
+  --color-red-hover: #ec3653;
+  --color-red-soft: #feeced;
+  /* Red text: 5.2:1 on white, 4.9:1 on surface, 4.6:1 on red-soft (WCAG 1.4.3 AA). */
+  --color-red-deep: #cc2a47;
+  /* Hover for red fills behind small white text (Button tone="red"): 6.3:1 under white. */
+  --color-red-deep-hover: #b8233e;
+  --color-focus: #000000;
+
+  /*
+   * Text-role overrides. Tailwind resolves `text-*` from --text-color-* before --color-*, so these
+   * change only text (and placeholder) colour; bg-/border-/fill uses keep the brand values above.
+   */
+  --text-color-muted: #707070; /* 4.95:1 on white, 4.62:1 on surface */
+  /* Brand #f54562 is 3.55:1 on white, below 4.5:1 for small text. Same hue, lightness lowered just enough: 4.93:1 on white, 4.60:1 on surface. */
+  --text-color-red: #d32e4b;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+html,
+body {
+  background: #fff;
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+@layer base {
+  /* One visible keyboard ring for every control (21:1 against the white page). Utilities can still override. */
+  :focus-visible {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
+  /* Sticky StageBar (113px) must never cover a focused or anchored element (WCAG 2.4.11). */
+  html:has([data-stagebar]) {
+    scroll-padding-top: 128px;
+  }
+}
+
+/* Components layer, so utilities on the same element (text-[10px], tracking-*, leading-*) win. */
+@layer components {
+  .label {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    line-height: 14px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .hatch {
+    background: repeating-linear-gradient(45deg, #ebe9e9 0 4px, #fff 4px 8px);
+  }
+  .hatch-red {
+    background: repeating-linear-gradient(45deg, #f54562 0 3px, #feeced 3px 6px);
+  }
+
+  .skip-link {
+    position: fixed;
+    top: 12px;
+    left: 12px;
+    z-index: 50;
+    translate: 0 -200%;
+  }
+  .skip-link:focus-visible {
+    translate: 0 0;
+  }
+}
+
+/* Tailwind v4 preflight resets buttons to cursor: default. */
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+/* Controls draw their own pressed state; drop the grey tap flash on touch. */
+a,
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Keeps the content column from shifting when moving between short and long routes. */
+html {
+  scrollbar-gutter: stable;
+}
+
+/* Motion components honour this via <MotionConfig reducedMotion="user">; this covers CSS transitions/animations. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+::selection {
+  background: var(--color-red-soft);
+  color: var(--color-ink);
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-page {
+    box-shadow: none !important;
+    margin: 0 auto !important;
+  }
+  body {
+    background: #fff;
+  }
+}

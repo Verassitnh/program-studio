@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "skill-program-count.schema.json",
+  "title": "Program coverage of a skill",
+  "description": "The number of programs teaching a skill at an institution, including course-derived skills. This is a data observation, not a taught-elsewhere UI state or a count response envelope.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc",
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "programCount": {
+      "type": "integer",
+      "minimum": 0
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "institutionId",
+    "skillId",
+    "programCount"
+  ],
+  "examples": [
+    {
+      "institutionId": "institution-1",
+      "skillId": "skill-programming",
+      "programCount": 3
+    }
+  ]
+}

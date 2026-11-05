@@ -1,0 +1,26 @@
+[
+  {
+    "id": "north-sound-state",
+    "name": "North Sound State University"
+  },
+  {
+    "id": "spokane-valley-cc",
+    "name": "Spokane Valley Community College"
+  },
+  {
+    "id": "columbia-basin-tech",
+    "name": "Columbia Basin Technical Institute"
+  },
+  {
+    "id": "willow-creek-college",
+    "name": "Willow Creek College"
+  },
+  {
+    "id": "yakima-valley-poly",
+    "name": "Yakima Valley Polytechnic"
+  },
+  {
+    "id": "rainier-health",
+    "name": "Rainier College of Health Sciences"
+  }
+]

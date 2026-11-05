@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "occupation-alignment.schema.json",
+  "title": "Curriculum occupation alignment",
+  "description": "A calculated program-to-occupation alignment, with benchmark context but without display markup, jumplinks, market-opportunity icons, or report settings.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_skillabi.class.inc",
+    "includes/namespaces/skillabi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "programId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "geography": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "period": {
+      "$ref": "common.schema.json#/definitions/period"
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "programId",
+    "occupation",
+    "geography",
+    "period",
+    "score"
+  ],
+  "examples": [
+    {
+      "programId": "program-1",
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "geography": {
+        "taxonomyId": "us_fips",
+        "code": "53063"
+      },
+      "period": {
+        "start": "2023-01",
+        "end": "2023-12"
+      },
+      "score": 0.75
+    }
+  ]
+}

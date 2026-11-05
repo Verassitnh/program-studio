@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "program-course.schema.json",
+  "title": "Program course membership",
+  "description": "A course belonging to a curriculum program. Whether it is required belongs to this relationship, not to the course itself.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "courseId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "isRequired": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "courseId",
+    "isRequired"
+  ],
+  "examples": [
+    {
+      "courseId": "course-1",
+      "isRequired": true
+    }
+  ]
+}

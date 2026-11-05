@@ -1,0 +1,15 @@
+.DS_Store
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
+
+# Local env & OS
+.env
+.DS_Store
+
+# Third-party agent skills (reinstall with: npx skills add jakubkrehel/skills; see skills-lock.json)
+/.claude/
+/.agents/

@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "posting-growth.schema.json",
+  "title": "Job-posting growth observation",
+  "description": "A comparison of posting counts in two periods. Undefined growth is null, not an application-specific text sentinel. Period ordering and growth arithmetic require application validation.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_skillabi.class.inc",
+    "includes/classes/datamonkey.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "geography": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "baselinePeriod": {
+      "$ref": "common.schema.json#/definitions/period"
+    },
+    "comparisonPeriod": {
+      "$ref": "common.schema.json#/definitions/period"
+    },
+    "baselinePostings": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "comparisonPostings": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "growthRate": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "occupation",
+    "geography",
+    "baselinePeriod",
+    "comparisonPeriod",
+    "baselinePostings",
+    "comparisonPostings",
+    "growthRate"
+  ],
+  "examples": [
+    {
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "geography": {
+        "taxonomyId": "us_fips",
+        "code": "53063"
+      },
+      "baselinePeriod": {
+        "start": "2023-01",
+        "end": "2023-01"
+      },
+      "comparisonPeriod": {
+        "start": "2024-01",
+        "end": "2024-01"
+      },
+      "baselinePostings": 100,
+      "comparisonPostings": 150,
+      "growthRate": 0.5
+    }
+  ]
+}

@@ -1,0 +1,1460 @@
+[
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    },
+    "skillId": "onet-skill-2.B.2.i",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    },
+    "skillId": "technology-80f162eb0608",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "skillId": "technology-18885f27b5af",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "skillId": "domain-data-visualization",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "skillId": "technology-345a16dccd33",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    },
+    "skillId": "domain-sql",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "skillId": "domain-network-security",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "skillId": "technology-2b9ace1aac04",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    },
+    "skillId": "onet-skill-2.A.2.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "skillId": "technology-736155b7dad3",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "skillId": "domain-network-security",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "skillId": "technology-4828e60247c1",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "skillId": "technology-f6d6978a18d7",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    },
+    "skillId": "onet-skill-2.A.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "skillId": "domain-research-methods",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    },
+    "skillId": "domain-statistical-modeling",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "skillId": "domain-finite-element-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "skillId": "technology-a9464b40959d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    },
+    "skillId": "technology-bc382cc23d6e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.B.4.e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    },
+    "skillId": "technology-23e834ce8b0e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "skillId": "technology-f1deb75fa21d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    },
+    "skillId": "domain-control-systems",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    },
+    "skillId": "domain-electrical-safety",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "skillId": "domain-hydrology",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "skillId": "domain-structural-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    },
+    "skillId": "domain-civil-3d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    },
+    "skillId": "domain-project-scheduling",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    },
+    "skillId": "technology-0687f4a8a64d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "skillId": "onet-skill-2.A.2.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "skillId": "domain-infection-prevention",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "skillId": "domain-vital-signs-monitoring",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "skillId": "onet-skill-2.B.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    },
+    "skillId": "technology-54b22e0172a3",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "skillId": "technology-958d592553df",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.B.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.A.2.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    },
+    "skillId": "domain-radiographic-positioning",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "skillId": "domain-icd-10-cm",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "skillId": "technology-1601b146fa69",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    },
+    "skillId": "technology-654a61e7ae7d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "skillId": "onet-skill-2.A.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "skillId": "technology-f43663342216",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    },
+    "skillId": "onet-skill-2.A.1.e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "skillId": "domain-emergency-assessment",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "skillId": "technology-c9b4cb6697e6",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "skillId": "technology-654a61e7ae7d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    },
+    "skillId": "domain-airway-management",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "skillId": "technology-51e2c34a3585",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "skillId": "domain-emergency-communication",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    },
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    },
+    "skillId": "technology-06600810f6d3",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    },
+    "skillId": "domain-health-communication",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    },
+    "skillId": "onet-skill-2.B.4.e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "skillId": "technology-654a61e7ae7d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    },
+    "skillId": "domain-tax-preparation",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    },
+    "skillId": "onet-skill-2.A.2.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "skillId": "technology-67321147adb0",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "skillId": "domain-financial-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    },
+    "skillId": "onet-skill-2.B.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "skillId": "technology-a9d35ae9c3c3",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "skillId": "domain-organizational-behavior",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "skillId": "onet-skill-2.B.1.f",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    },
+    "skillId": "onet-skill-2.B.5.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "skillId": "technology-aa41c24174eb",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    },
+    "skillId": "domain-media-writing",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    },
+    "skillId": "technology-854365934d75",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "skillId": "domain-research-methods",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "skillId": "onet-skill-2.B.1.f",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    },
+    "skillId": "onet-skill-2.A.2.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "skillId": "technology-4e4a16f7019a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "skillId": "onet-skill-2.A.2.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "skillId": "domain-training-design",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    },
+    "skillId": "domain-performance-management",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "skillId": "domain-warehouse-operations",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    },
+    "skillId": "onet-skill-2.A.1.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "skillId": "onet-skill-2.A.2.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    },
+    "skillId": "onet-skill-2.A.1.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "skillId": "domain-shop-safety",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    },
+    "skillId": "technology-4642114d35ab",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "skillId": "onet-skill-2.B.3.k",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "skillId": "technology-0392a043f080",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    },
+    "skillId": "technology-acc08972fddf",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "skillId": "technology-0392a043f080",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "skillId": "onet-skill-2.A.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "skillId": "domain-blueprint-reading",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    },
+    "skillId": "domain-hvac-installation",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    },
+    "skillId": "domain-electrical-installation",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "skillId": "technology-60229054dc8b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "skillId": "domain-carpentry",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    },
+    "skillId": "domain-blueprint-reading",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "skillId": "onet-skill-2.B.5.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "skillId": "domain-carpentry",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "skillId": "domain-building-codes",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    },
+    "skillId": "domain-project-scheduling",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "skillId": "domain-pneumatics",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "skillId": "onet-skill-2.B.3.h",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    },
+    "skillId": "onet-skill-2.A.2.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.B.4.e",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "skillId": "onet-skill-2.B.3.l",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    },
+    "skillId": "domain-programmable-logic-controllers",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    },
+    "skillId": "technology-654a61e7ae7d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    },
+    "skillId": "domain-early-literacy",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "skillId": "onet-skill-2.B.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    },
+    "skillId": "onet-skill-2.A.2.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "skillId": "domain-cultural-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    },
+    "skillId": "onet-skill-2.B.1.f",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    },
+    "skillId": "onet-skill-2.A.1.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "skillId": "domain-experimental-design",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    },
+    "skillId": "technology-2f83b6ede8a1",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1029.00",
+      "name": "Biological Scientists, All Other"
+    },
+    "skillId": "domain-quality-control",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "skillId": "domain-gis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "skillId": "technology-84aa76d5d845",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    },
+    "skillId": "onet-skill-2.A.1.f",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    },
+    "skillId": "domain-field-documentation",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "skillId": "onet-skill-2.A.2.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    },
+    "skillId": "domain-layout-design",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    },
+    "skillId": "domain-typography",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "skillId": "onet-skill-2.A.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "skillId": "technology-832d0b5c5ba4",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    },
+    "skillId": "domain-rhetorical-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "skillId": "onet-skill-2.B.5.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "skillId": "onet-skill-2.A.1.c",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    },
+    "skillId": "technology-dff2178ac427",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "skillId": "technology-862a762ffa98",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "skillId": "technology-712297890c22",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    },
+    "skillId": "domain-interviewing",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    },
+    "skillId": "domain-cost-control",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "skillId": "domain-kitchen-management",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "skillId": "onet-skill-2.B.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "skillId": "domain-baking",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    },
+    "skillId": "onet-skill-2.B.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "skillId": "technology-06bfff4c7ca7",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "skillId": "onet-skill-2.A.1.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    },
+    "skillId": "onet-skill-2.A.2.d",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "skillId": "domain-cultural-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "skillId": "domain-public-speaking",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "skillId": "onet-skill-2.A.1.a",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    },
+    "skillId": "domain-economic-analysis",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "skillId": "onet-skill-2.A.1.b",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "skillId": "technology-bebcb3119440",
+    "model": "fictional-regional-scenario-v2"
+  },
+  {
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "41-2031.00",
+      "name": "Retail Salespersons"
+    },
+    "skillId": "technology-1c36a8d898b8",
+    "model": "fictional-regional-scenario-v2"
+  }
+]

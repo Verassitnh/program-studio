@@ -1,0 +1,60 @@
+[
+  {
+    "taxonomyId": "iso_3166_1_alpha2",
+    "code": "US",
+    "name": "United States"
+  },
+  {
+    "taxonomyId": "us_county_fips_2020",
+    "code": "53033",
+    "name": "King County, WA"
+  },
+  {
+    "taxonomyId": "cip_2020",
+    "code": "51.3801",
+    "name": "Registered Nursing/Registered Nurse."
+  },
+  {
+    "taxonomyId": "onet_soc_2019",
+    "code": "15-1252.00",
+    "name": "Software Developers"
+  },
+  {
+    "start": "2024-01",
+    "end": "2024-12"
+  },
+  {
+    "amount": 82000,
+    "currency": "USD",
+    "period": "year"
+  },
+  {
+    "amount": 30.75,
+    "currency": "USD",
+    "period": "hour"
+  },
+  {
+    "id": "north-sound-state",
+    "name": "North Sound State University"
+  },
+  {
+    "yearsAfterEducation": 1,
+    "openEnded": false
+  },
+  {
+    "yearsAfterEducation": 3,
+    "openEnded": false
+  },
+  {
+    "yearsAfterEducation": 5,
+    "openEnded": false
+  },
+  {
+    "yearsAfterEducation": 10,
+    "openEnded": false
+  },
+  {
+    "yearsAfterEducation": 15,
+    "openEnded": true
+  }
+]

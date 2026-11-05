@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "program-occupation-mapping.schema.json",
+  "title": "Field-of-study occupation crosswalk",
+  "description": "One substantive relationship between a field of study and a related occupation. This is not an API response row with a nested list or a user-selected occupation target.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "api/endpoints/programoccmapping.php",
+    "includes/namespaces/skillabi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "fieldOfStudy",
+    "occupation"
+  ],
+  "examples": [
+    {
+      "fieldOfStudy": {
+        "taxonomyId": "cip_2020",
+        "code": "11.0701"
+      },
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      }
+    }
+  ]
+}

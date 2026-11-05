@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "classification-mapping.schema.json",
+  "title": "Classification crosswalk relationship",
+  "description": "One source-to-destination classification relationship, retaining both taxonomy identifiers. Multi-valued source-code maps become individual relationships.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/classificationapi.inc",
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "source": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "destination": {
+      "$ref": "common.schema.json#/definitions/classification"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "source",
+    "destination"
+  ],
+  "examples": [
+    {
+      "source": {
+        "taxonomyId": "lot_v6",
+        "code": "23171716"
+      },
+      "destination": {
+        "taxonomyId": "canoc_2021",
+        "code": "21231"
+      }
+    }
+  ]
+}

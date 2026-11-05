@@ -1,0 +1,2273 @@
+[
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53033",
+        "name": "King County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53035",
+        "name": "Kitsap County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53053",
+        "name": "Pierce County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "isInternational": true,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    }
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53061",
+        "name": "Snohomish County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "CA",
+        "name": "Canada"
+      }
+    ],
+    "isInternational": true,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    }
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53063",
+        "name": "Spokane County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53043",
+        "name": "Lincoln County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53075",
+        "name": "Whitman County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53065",
+        "name": "Stevens County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-spokane-valley-cc"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53005",
+        "name": "Benton County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53021",
+        "name": "Franklin County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53071",
+        "name": "Walla Walla County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53077",
+        "name": "Yakima County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-columbia-basin-tech"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "41051",
+        "name": "Multnomah County, OR"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "41",
+        "name": "Oregon"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53011",
+        "name": "Clark County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "41067",
+        "name": "Washington County, OR"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "41",
+        "name": "Oregon"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "41005",
+        "name": "Clackamas County, OR"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "41",
+        "name": "Oregon"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53077",
+        "name": "Yakima County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53037",
+        "name": "Kittitas County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53005",
+        "name": "Benton County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53039",
+        "name": "Klickitat County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-yakima-valley-poly"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53053",
+        "name": "Pierce County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53045",
+        "name": "Mason County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "36061",
+        "name": "New York County, NY"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "36",
+        "name": "New York"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "48453",
+        "name": "Travis County, TX"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "48",
+        "name": "Texas"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "06073",
+        "name": "San Diego County, CA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "06",
+        "name": "California"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "16001",
+        "name": "Ada County, ID"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "16",
+        "name": "Idaho"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "08031",
+        "name": "Denver County, CO"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "08",
+        "name": "Colorado"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53067",
+        "name": "Thurston County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "25025",
+        "name": "Suffolk County, MA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "25",
+        "name": "Massachusetts"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53033",
+        "name": "King County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": true,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53033",
+        "name": "King County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53035",
+        "name": "Kitsap County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53053",
+        "name": "Pierce County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53061",
+        "name": "Snohomish County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53063",
+        "name": "Spokane County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53043",
+        "name": "Lincoln County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-rainier-health"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53065",
+        "name": "Stevens County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53075",
+        "name": "Whitman County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53043",
+        "name": "Lincoln County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53063",
+        "name": "Spokane County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53005",
+        "name": "Benton County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53077",
+        "name": "Yakima County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53021",
+        "name": "Franklin County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53071",
+        "name": "Walla Walla County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53011",
+        "name": "Clark County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "41051",
+        "name": "Multnomah County, OR"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "41",
+        "name": "Oregon"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "41067",
+        "name": "Washington County, OR"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "41",
+        "name": "Oregon"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-north-sound-state"
+  },
+  {
+    "areas": [
+      {
+        "taxonomyId": "us_county_fips_2020",
+        "code": "53077",
+        "name": "Yakima County, WA"
+      },
+      {
+        "taxonomyId": "us_state_fips",
+        "code": "53",
+        "name": "Washington"
+      },
+      {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US",
+        "name": "United States"
+      }
+    ],
+    "isInternational": false,
+    "referenceCountry": {
+      "taxonomyId": "iso_3166_1_alpha2",
+      "code": "US",
+      "name": "United States"
+    },
+    "residesInServiceRegion": false,
+    "serviceRegionId": "service-region-willow-creek-college"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "course.schema.json",
+  "title": "Course",
+  "description": "A curriculum course, independent of the programs that require or include it. Text and skill assignments are data; editing and publication workflow are excluded.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "code": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "credits": {
+      "type": "number",
+      "minimum": 0
+    },
+    "learningObjectivesText": {
+      "type": "string"
+    },
+    "syllabusText": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "$ref": "curricular-skill.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name"
+  ],
+  "examples": [
+    {
+      "id": "course-1",
+      "institutionId": "institution-1",
+      "code": "CS101",
+      "name": "Introduction to Programming",
+      "credits": 3,
+      "skills": [
+        {
+          "skillId": "skill-programming",
+          "isLearningObjective": true
+        }
+      ]
+    }
+  ]
+}

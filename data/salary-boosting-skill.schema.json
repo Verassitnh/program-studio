@@ -1,0 +1,39 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "salary-boosting-skill.schema.json",
+  "title": "Salary-boosting skill relationship",
+  "description": "A skill identified by a model as salary boosting for an occupation. This relationship does not claim a measured salary uplift or an individual salary.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/namespaces/salaryboostingskillsapi.inc",
+    "includes/classes/packet/packet_skillabi.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "model": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "occupation",
+    "skillId"
+  ],
+  "examples": [
+    {
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "skillId": "skill-programming"
+    }
+  ]
+}

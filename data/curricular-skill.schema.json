@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "curricular-skill.schema.json",
+  "title": "Curriculum skill assignment",
+  "description": "A skill taught by a program or course. Learning-objective status is substantive curriculum data; extraction UI and linked/root aggregation flags are not retained.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc",
+    "js/react/skillabi/utils/functions.js"
+  ],
+  "type": "object",
+  "properties": {
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "isLearningObjective": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "skillId"
+  ],
+  "examples": [
+    {
+      "skillId": "skill-programming",
+      "isLearningObjective": true
+    }
+  ]
+}

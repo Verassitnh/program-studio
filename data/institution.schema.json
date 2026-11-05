@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "institution.schema.json",
+  "title": "Educational institution",
+  "description": "An educational institution referenced by curriculum, education history, or alumni records. Local prototype identity is separate from external school identifiers.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/alumnipathwaysslice.class.inc",
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/curricularskillsapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "identifiers": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/definitions/classification"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name"
+  ],
+  "examples": [
+    {
+      "id": "institution-1",
+      "name": "Example College",
+      "identifiers": [
+        {
+          "taxonomyId": "ipeds",
+          "code": "000001"
+        }
+      ]
+    }
+  ]
+}

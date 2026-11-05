@@ -1,0 +1,115 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "posting-metrics.schema.json",
+  "title": "Job-posting demand observation",
+  "description": "A demand observation with geography, period, and optional occupation/industry/skill dimensions. No ranking, pagination, or response envelope. Unknown metrics may be omitted or null, never rendered as N/A.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_skillabi.class.inc",
+    "includes/namespaces/jpaapi.inc",
+    "api-specs/jpa-us.json"
+  ],
+  "type": "object",
+  "properties": {
+    "geography": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "period": {
+      "$ref": "common.schema.json#/definitions/period"
+    },
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "industry": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "uniquePostings": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "totalPostings": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "uniqueEmployers": {
+      "anyOf": [
+        {
+          "type": "integer",
+          "minimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "medianSalary": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "postingIntensity": {
+      "anyOf": [
+        {
+          "type": "number",
+          "minimum": 0
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "geography",
+    "period"
+  ],
+  "examples": [
+    {
+      "geography": {
+        "taxonomyId": "us_fips",
+        "code": "53063"
+      },
+      "period": {
+        "start": "2023-01",
+        "end": "2023-12"
+      },
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "uniquePostings": 100,
+      "totalPostings": 180,
+      "medianSalary": {
+        "amount": 85000,
+        "currency": "USD",
+        "period": "year"
+      },
+      "postingIntensity": 1.8
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-location.schema.json",
+  "title": "Alumni residence observation",
+  "description": "Residence classifications and service-region membership. Domestic/international status is relative to a reference country, not a globally meaningful boolean.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "areas": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/definitions/classification"
+      }
+    },
+    "residesInServiceRegion": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "serviceRegionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "isInternational": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "referenceCountry": {
+      "$ref": "common.schema.json#/definitions/classification"
+    }
+  },
+  "additionalProperties": false,
+  "dependencies": {
+    "isInternational": ["referenceCountry"],
+    "residesInServiceRegion": ["serviceRegionId"]
+  },
+  "required": [
+    "areas"
+  ],
+  "examples": [
+    {
+      "areas": [
+        {
+          "taxonomyId": "us_fips",
+          "code": "53063",
+          "name": "Spokane County"
+        }
+      ],
+      "residesInServiceRegion": true,
+      "serviceRegionId": "service-region-1",
+      "isInternational": false,
+      "referenceCountry": {
+        "taxonomyId": "iso_3166_1_alpha2",
+        "code": "US"
+      }
+    }
+  ]
+}

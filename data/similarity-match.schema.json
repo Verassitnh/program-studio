@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "similarity-match.schema.json",
+  "title": "Similarity observation",
+  "description": "A model-derived similarity between explicitly identified subjects, not an opaque position in a result array. Similarity and curriculum alignment are different measures.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "derived-data",
+  "x-source-files": [
+    "includes/namespaces/similaritiesapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "subject": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "relatedSubject": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "model": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "subject",
+    "relatedSubject",
+    "score"
+  ],
+  "examples": [
+    {
+      "subject": {
+        "taxonomyId": "skills",
+        "code": "skill-programming"
+      },
+      "relatedSubject": {
+        "taxonomyId": "skills",
+        "code": "skill-software-development"
+      },
+      "score": 0.78
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+[
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1254.00",
+      "name": "Web Developers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1212.00",
+      "name": "Information Security Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.1003",
+      "name": "Computer and Information Systems Security/Auditing/Information Assurance."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1232.00",
+      "name": "Computer User Support Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1244.00",
+      "name": "Network and Computer Systems Administrators"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "11.0103",
+      "name": "Information Technology."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1211.00",
+      "name": "Computer Systems Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2051.00",
+      "name": "Data Scientists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "30.7001",
+      "name": "Data Science, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1252.00",
+      "name": "Software Developers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2141.00",
+      "name": "Mechanical Engineers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1901",
+      "name": "Mechanical Engineering."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3027.00",
+      "name": "Mechanical Engineering Technologists and Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2071.00",
+      "name": "Electrical Engineers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.1001",
+      "name": "Electrical and Electronics Engineering."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3023.00",
+      "name": "Electrical and Electronic Engineering Technologists and Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.0801",
+      "name": "Civil Engineering, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-2051.00",
+      "name": "Civil Engineers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "14.0801",
+      "name": "Civil Engineering, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3022.00",
+      "name": "Civil Engineering Technologists and Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3801",
+      "name": "Registered Nursing/Registered Nurse."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-1141.00",
+      "name": "Registered Nurses"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.3901",
+      "name": "Licensed Practical/Vocational Nurse Training."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2061.00",
+      "name": "Licensed Practical and Licensed Vocational Nurses"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0801",
+      "name": "Medical/Clinical Assistant."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "31-9092.00",
+      "name": "Medical Assistants"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0911",
+      "name": "Radiologic Technology/Science - Radiographer."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2034.00",
+      "name": "Radiologic Technologists and Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0707",
+      "name": "Health Information/Medical Records Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2072.00",
+      "name": "Medical Records Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0707",
+      "name": "Health Information/Medical Records Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3021.00",
+      "name": "Billing and Posting Clerks"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2042.00",
+      "name": "Emergency Medical Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.0904",
+      "name": "Emergency Medical Technology/Technician (EMT Paramedic)."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "29-2043.00",
+      "name": "Paramedics"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1091.00",
+      "name": "Health Education Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "51.2201",
+      "name": "Public Health, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1041.00",
+      "name": "Epidemiologists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2011.00",
+      "name": "Accountants and Auditors"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0301",
+      "name": "Accounting."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-3031.00",
+      "name": "Bookkeeping, Accounting, and Auditing Clerks"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-1021.00",
+      "name": "General and Operations Managers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0201",
+      "name": "Business Administration and Management, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1401",
+      "name": "Marketing/Marketing Management, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1001",
+      "name": "Human Resources Management/Personnel Administration, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.1001",
+      "name": "Human Resources Management/Personnel Administration, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1151.00",
+      "name": "Training and Development Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1081.00",
+      "name": "Logisticians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "52.0203",
+      "name": "Logistics, Materials, and Supply Chain Management."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-3071.00",
+      "name": "Transportation, Storage, and Distribution Managers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "48.0508",
+      "name": "Welding Technology/Welder."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "51-4121.00",
+      "name": "Welders, Cutters, Solderers, and Brazers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0604",
+      "name": "Automobile/Automotive Mechanics Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-3023.00",
+      "name": "Automotive Service Technicians and Mechanics"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "47.0201",
+      "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9021.00",
+      "name": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0302",
+      "name": "Electrician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2111.00",
+      "name": "Electricians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "47-2031.00",
+      "name": "Carpenters"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "46.0415",
+      "name": "Building Construction Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9021.00",
+      "name": "Construction Managers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "15.0407",
+      "name": "Mechatronics, Robotics, and Automation Engineering Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "49-9041.00",
+      "name": "Industrial Machinery Mechanics"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "15.0407",
+      "name": "Mechatronics, Robotics, and Automation Engineering Technology/Technician."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "17-3024.00",
+      "name": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1210",
+      "name": "Early Childhood Education and Teaching."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2011.00",
+      "name": "Preschool Teachers, Except Special Education"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1210",
+      "name": "Early Childhood Education and Teaching."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "39-9011.00",
+      "name": "Childcare Workers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "13.1202",
+      "name": "Elementary Education and Teaching."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "25-2021.00",
+      "name": "Elementary School Teachers, Except Special Education"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "42.0101",
+      "name": "Psychology, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1071.00",
+      "name": "Human Resources Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1021.00",
+      "name": "Child, Family, and School Social Workers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "44.0701",
+      "name": "Social Work."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4021.00",
+      "name": "Biological Technicians"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "26.0101",
+      "name": "Biology/Biological Sciences, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-1029.00",
+      "name": "Biological Scientists, All Other"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-2041.00",
+      "name": "Environmental Scientists and Specialists, Including Health"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "03.0104",
+      "name": "Environmental Science."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "19-4042.00",
+      "name": "Environmental Science and Protection Technicians, Including Health"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-1024.00",
+      "name": "Graphic Designers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "50.0409",
+      "name": "Graphic Design."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-1255.00",
+      "name": "Web and Digital Interface Designers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3043.00",
+      "name": "Writers and Authors"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3041.00",
+      "name": "Editors"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "23.0101",
+      "name": "English Language and Literature, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-3031.00",
+      "name": "Public Relations Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "27-2012.00",
+      "name": "Producers and Directors"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "09.0101",
+      "name": "Speech Communication and Rhetoric."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1161.00",
+      "name": "Market Research Analysts and Marketing Specialists"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-2014.00",
+      "name": "Cooks, Restaurant"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "35-1011.00",
+      "name": "Chefs and Head Cooks"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "12.0503",
+      "name": "Culinary Arts/Chef Training."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "11-9051.00",
+      "name": "Food Service Managers"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "22.0302",
+      "name": "Legal Assistant/Paralegal."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "23-2011.00",
+      "name": "Paralegals and Legal Assistants"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-6014.00",
+      "name": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "43-4051.00",
+      "name": "Customer Service Representatives"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "24.0101",
+      "name": "Liberal Arts and Sciences/Liberal Studies."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "21-1093.00",
+      "name": "Social and Human Service Assistants"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-1111.00",
+      "name": "Management Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "15-2031.00",
+      "name": "Operations Research Analysts"
+    }
+  },
+  {
+    "fieldOfStudy": {
+      "taxonomyId": "cip_2020",
+      "code": "45.0601",
+      "name": "Economics, General."
+    },
+    "occupation": {
+      "taxonomyId": "onet_soc_2019",
+      "code": "13-2051.00",
+      "name": "Financial and Investment Analysts"
+    }
+  }
+]

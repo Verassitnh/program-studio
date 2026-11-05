@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-education.schema.json",
+  "title": "Institution education and award",
+  "description": "Education/award data associated with one alumni record. Institution education programs are independent of curriculum program identities.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "institutionId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "educationProgramId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "degreeLevel": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "graduationYear": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "endYear": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "graduated": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "isHighestAward": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "campus": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "academicUnit": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "academicSubunit": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "institutionId"
+  ],
+  "examples": [
+    {
+      "institutionId": "institution-1",
+      "educationProgramId": "education-program-1",
+      "fieldOfStudy": {
+        "taxonomyId": "cip_2020",
+        "code": "11.0701"
+      },
+      "graduationYear": 2020,
+      "graduated": true
+    }
+  ]
+}

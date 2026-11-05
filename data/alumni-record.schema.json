@@ -1,0 +1,98 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-record.schema.json",
+  "title": "Alumni education and outcomes record",
+  "description": "A substantive education/outcomes record, not an API envelope or a unique-person assertion. Multiple award records can share personId. Employment, location, contact, and demographics can be absent for unmatched or restricted records.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "personId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "education": {
+      "$ref": "alumni-education.schema.json"
+    },
+    "employment": {
+      "$ref": "alumni-employment.schema.json"
+    },
+    "location": {
+      "$ref": "alumni-location.schema.json"
+    },
+    "demographics": {
+      "$ref": "alumni-demographics.schema.json"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "$ref": "alumni-skills.schema.json"
+      }
+    },
+    "contact": {
+      "$ref": "alumni-pii.schema.json"
+    },
+    "educationHistory": {
+      "type": "array",
+      "items": {
+        "$ref": "nsc-education.schema.json"
+      }
+    },
+    "careerEvents": {
+      "type": "array",
+      "items": {
+        "$ref": "career-event.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "education"
+  ],
+  "examples": [
+    {
+      "id": "alumni-record-1",
+      "personId": "synthetic-person-1",
+      "education": {
+        "institutionId": "institution-1",
+        "educationProgramId": "education-program-1",
+        "graduationYear": 2020,
+        "graduated": true
+      },
+      "employment": {
+        "occupation": {
+          "taxonomyId": "soc_2021",
+          "code": "15-1252"
+        },
+        "estimatedWage": null
+      },
+      "skills": [
+        {
+          "skillId": "skill-programming"
+        }
+      ],
+      "careerEvents": [
+        {
+          "type": "employment",
+          "occupation": {
+            "taxonomyId": "soc_2021",
+            "code": "15-1252"
+          },
+          "checkpoint": {
+            "yearsAfterEducation": 3,
+            "openEnded": false
+          }
+        }
+      ]
+    }
+  ]
+}

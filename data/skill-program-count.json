@@ -1,0 +1,3692 @@
+[
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-algorithms",
+    "programCount": 17
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-anatomy-and-physiology",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-application-programming-interfaces",
+    "programCount": 15
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-assessment-design",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-audience-analysis",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-auditing",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-autocad",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-behavioral-assessment",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-benefits-administration",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-biostatistics",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-bookkeeping",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-budgeting",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-business-analysis",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-business-communication",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-campaign-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-care-planning",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-case-management",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-cell-culture",
+    "programCount": 15
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-child-development",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-circuit-analysis",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-civil-3d",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-classroom-management",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-client-advocacy",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-cloud-computing",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-collaboration",
+    "programCount": 9
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-community-assessment",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-community-resources",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-construction-estimating",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-consumer-behavior",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-content-strategy",
+    "programCount": 19
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-control-systems",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-copyediting",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-cost-accounting",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-crisis-intervention",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-cultural-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-analysis",
+    "programCount": 16
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-cleaning",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-interpretation",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-structures",
+    "programCount": 17
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-visualization",
+    "programCount": 34
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-demand-forecasting",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-digital-forensics",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-digital-marketing",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-digital-storytelling",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-distributed-systems",
+    "programCount": 15
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-ecological-assessment",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-econometrics",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-economic-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-editing",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-educational-technology",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-electrical-safety",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-embedded-systems",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-employee-relations",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-employment-law",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-engineering-drawing",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-environmental-regulation",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-environmental-sampling",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-epidemiology",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-erp-systems",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-ethics",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-evidence-based-practice",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-experimental-design",
+    "programCount": 19
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-family-engagement",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-field-documentation",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-figma",
+    "programCount": 4
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-financial-accounting",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-financial-analysis",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-financial-reporting",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-finite-element-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-fluid-mechanics",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-geotechnical-engineering",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-gis",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-health-communication",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-health-promotion",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-hr-information-systems",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-hydrology",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-identity-and-access-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-incident-response",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-inclusive-education",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-infection-prevention",
+    "programCount": 4
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-information-literacy",
+    "programCount": 1
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-internal-controls",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-interviewing",
+    "programCount": 22
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-inventory-management",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-it-service-management",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-java",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-laboratory-safety",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-layout-design",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-lesson-planning",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-literacy-instruction",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-logistics-planning",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-machine-learning",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-manufacturing-processes",
+    "programCount": 15
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-market-research",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-materials-science",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-matlab",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-mechanical-design",
+    "programCount": 16
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-media-writing",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-medication-administration",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-microscopy",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-molecular-biology",
+    "programCount": 19
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-network-administration",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-network-security",
+    "programCount": 14
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-operations-management",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-organizational-behavior",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-patient-assessment",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-patient-education",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-pcb-design",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-performance-management",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-policy-analysis",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-power-systems",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-process-improvement",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-procurement",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-program-evaluation",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-project-management",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-project-scheduling",
+    "programCount": 15
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-public-speaking",
+    "programCount": 17
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-quality-control",
+    "programCount": 17
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-quantitative-reasoning",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-quickbooks",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-recruiting",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-research",
+    "programCount": 47
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-research-methods",
+    "programCount": 21
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-rhetorical-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-risk-assessment",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-scientific-writing",
+    "programCount": 19
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-search-engine-optimization",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-signal-processing",
+    "programCount": 13
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-social-policy",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-software-testing",
+    "programCount": 18
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-solidworks",
+    "programCount": 3
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-sql",
+    "programCount": 16
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-statistical-analysis",
+    "programCount": 18
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-statistical-modeling",
+    "programCount": 9
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-strategic-communication",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-structural-analysis",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-surveying",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-tax-preparation",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-technical-support",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-thermodynamics",
+    "programCount": 12
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-training-design",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-typography",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-user-experience-design",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-video-production",
+    "programCount": 4
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-visual-communication",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-vulnerability-assessment",
+    "programCount": 10
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-warehouse-operations",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-water-quality-testing",
+    "programCount": 9
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-windows-administration",
+    "programCount": 11
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 50
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 43
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 54
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 39
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 50
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 41
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 91
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 50
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.B.3.k",
+    "programCount": 1
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 47
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-0d5feb54d2df",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-18885f27b5af",
+    "programCount": 16
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-4828e60247c1",
+    "programCount": 20
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-654a61e7ae7d",
+    "programCount": 27
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-736155b7dad3",
+    "programCount": 5
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-8c2574892063",
+    "programCount": 18
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-a64976f1c471",
+    "programCount": 7
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-b07bff47c8c6",
+    "programCount": 1
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-b949c922b6ef",
+    "programCount": 6
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-bebcb3119440",
+    "programCount": 8
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "onet-skill-2.B.3.m",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-data-quality",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-f1deb75fa21d",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-06bfff4c7ca7",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-legal-research",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-727f5df03f7b",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-e28a70b2356a",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-4f6b6890dac6",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "domain-electrocardiography",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-f5cb15490da1",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-8bb5e84b3860",
+    "programCount": 0
+  },
+  {
+    "institutionId": "north-sound-state",
+    "skillId": "technology-c01fbae8ea12",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-airway-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-anatomy-and-physiology",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-appointment-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-auditing",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-automotive-diagnostics",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-baking",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-behavioral-assessment",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-biostatistics",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-blueprint-reading",
+    "programCount": 11
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-bookkeeping",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-brake-systems",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-budgeting",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-building-codes",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-business-analysis",
+    "programCount": 7
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-business-communication",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-care-planning",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-carpentry",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-case-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cell-culture",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-child-development",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-child-safety",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-circuit-analysis",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-civil-procedure",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-classroom-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 9
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cloud-computing",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-collaboration",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-community-assessment",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-concrete-construction",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-conduit-bending",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-construction-estimating",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-construction-layout",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-controls-troubleshooting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cost-accounting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cost-control",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-cultural-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-data-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-data-interpretation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-data-quality",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-demand-forecasting",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-developmental-assessment",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-digital-forensics",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-document-preparation",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-drivetrain-repair",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-early-literacy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-electrical-installation",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-electrical-safety",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-electrical-troubleshooting",
+    "programCount": 7
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-electrocardiography",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-electronic-discovery",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-emergency-assessment",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-emergency-communication",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-engine-repair",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-erp-systems",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-ethics",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-evidence-based-practice",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-experimental-design",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-family-engagement",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-figma",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-financial-accounting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-financial-analysis",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-financial-reporting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-food-preparation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-food-safety",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-gas-metal-arc-welding",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-gas-tungsten-arc-welding",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-health-communication",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-health-information-privacy",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-health-promotion",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-hvac-installation",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-hybrid-vehicle-systems",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-icd-10-cm",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-identity-and-access-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-image-evaluation",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-incident-response",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-inclusive-education",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-infection-prevention",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-information-literacy",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-internal-controls",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-interviewing",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-inventory-management",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-it-service-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-jobsite-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-kitchen-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-knife-skills",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-laboratory-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-layout-design",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-legal-ethics",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-legal-research",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-legal-writing",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-lesson-planning",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-logistics-planning",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-medical-coding",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-medical-terminology",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-medication-administration",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-menu-planning",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-metal-fabrication",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-microscopy",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-molecular-biology",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-motor-controls",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-national-electrical-code",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-network-administration",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-network-security",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-operations-management",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-organizational-behavior",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-oxyfuel-cutting",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-patient-assessment",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-patient-education",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-patient-intake",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-patient-mobility",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-patient-transport",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-phlebotomy",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-preventive-maintenance",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-process-improvement",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-procurement",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-project-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-project-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-public-speaking",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-quality-control",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-quantitative-reasoning",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-quickbooks",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-radiation-safety",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-radiographic-positioning",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-refrigeration-systems",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-research",
+    "programCount": 13
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-research-methods",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-revenue-cycle-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-risk-assessment",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-scientific-writing",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-service-documentation",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-shielded-metal-arc-welding",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-shop-safety",
+    "programCount": 7
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-statistical-analysis",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-system-commissioning",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-tax-preparation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-technical-support",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-trauma-care",
+    "programCount": 3
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-typography",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-user-experience-design",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-visual-communication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-vital-signs-monitoring",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-vulnerability-assessment",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-warehouse-operations",
+    "programCount": 5
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-welding-inspection",
+    "programCount": 6
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-windows-administration",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-wound-care",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 23
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 10
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 22
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 7
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 16
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 16
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 46
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 18
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.B.3.k",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 10
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-0d5feb54d2df",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-18885f27b5af",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-4828e60247c1",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-654a61e7ae7d",
+    "programCount": 9
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-736155b7dad3",
+    "programCount": 4
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-8c2574892063",
+    "programCount": 1
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-b07bff47c8c6",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-bebcb3119440",
+    "programCount": 2
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-b78d1b9354b6",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-aa98e1536b73",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-e05ea55a6fd0",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-java",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-832d0b5c5ba4",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-a1de0130435e",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-748e188563ba",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-consumer-behavior",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-60229054dc8b",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-25d9678d5751",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "technology-8bf9482ae93c",
+    "programCount": 0
+  },
+  {
+    "institutionId": "spokane-valley-cc",
+    "skillId": "domain-structural-analysis",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-airway-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-appointment-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-auditing",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-automotive-diagnostics",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-baking",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-blueprint-reading",
+    "programCount": 8
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-bookkeeping",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-brake-systems",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-budgeting",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-building-codes",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-business-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-business-communication",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-circuit-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-cloud-computing",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-concrete-construction",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-conduit-bending",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-construction-estimating",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-construction-layout",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-controls-troubleshooting",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-cost-accounting",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-cost-control",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-demand-forecasting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-drivetrain-repair",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-electrical-installation",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-electrical-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-electrical-troubleshooting",
+    "programCount": 9
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-electrocardiography",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-emergency-assessment",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-emergency-communication",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-engine-repair",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-erp-systems",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-financial-accounting",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-financial-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-financial-reporting",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-food-preparation",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-food-safety",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-gas-metal-arc-welding",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-gas-tungsten-arc-welding",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-hvac-installation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-hybrid-vehicle-systems",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-hydraulics",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-industrial-robotics",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-infection-prevention",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-internal-controls",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-inventory-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-it-service-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-jobsite-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-kitchen-management",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-knife-skills",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-logistics-planning",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-medical-terminology",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-menu-planning",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-metal-fabrication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-motor-controls",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-national-electrical-code",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-network-administration",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-operations-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-organizational-behavior",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-oxyfuel-cutting",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-patient-intake",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-patient-transport",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-phlebotomy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-pneumatics",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-preventive-maintenance",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-process-improvement",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-procurement",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-programmable-logic-controllers",
+    "programCount": 7
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-project-management",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-project-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-quickbooks",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-refrigeration-systems",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-research",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-sensors-and-instrumentation",
+    "programCount": 6
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-service-documentation",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-shielded-metal-arc-welding",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-shop-safety",
+    "programCount": 8
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-system-commissioning",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-tax-preparation",
+    "programCount": 5
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-technical-support",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-trauma-care",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-vital-signs-monitoring",
+    "programCount": 2
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-warehouse-operations",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-welding-inspection",
+    "programCount": 4
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-windows-administration",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 13
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 7
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 12
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 7
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 9
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 8
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 27
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 9
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.B.3.k",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 6
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-4828e60247c1",
+    "programCount": 3
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-654a61e7ae7d",
+    "programCount": 7
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-736155b7dad3",
+    "programCount": 1
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-23e834ce8b0e",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-f911e414cf6b",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-5f4fee75159d",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-507e98c562e1",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-60e54dc4902a",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-d3ecca6af3ad",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-7d147dded477",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-care-planning",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-b5d0ad4d9e08",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "domain-data-structures",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-a1bbb365a649",
+    "programCount": 0
+  },
+  {
+    "institutionId": "columbia-basin-tech",
+    "skillId": "technology-f929225b1d13",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-algorithms",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-application-programming-interfaces",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-audience-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-behavioral-assessment",
+    "programCount": 6
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-budgeting",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-business-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-business-communication",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-campaign-management",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-case-management",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-cell-culture",
+    "programCount": 8
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-client-advocacy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-collaboration",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-community-resources",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-consumer-behavior",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-content-strategy",
+    "programCount": 10
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-copyediting",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-crisis-intervention",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-cultural-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-data-analysis",
+    "programCount": 7
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-data-interpretation",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-data-structures",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-data-visualization",
+    "programCount": 6
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-digital-marketing",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-digital-storytelling",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-distributed-systems",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-ecological-assessment",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-econometrics",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-economic-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-editing",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-environmental-regulation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-environmental-sampling",
+    "programCount": 6
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-ethics",
+    "programCount": 6
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-experimental-design",
+    "programCount": 7
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-field-documentation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-figma",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-financial-analysis",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-gis",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-information-literacy",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-interviewing",
+    "programCount": 9
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-java",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-laboratory-safety",
+    "programCount": 7
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-layout-design",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-market-research",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-media-writing",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-microscopy",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-molecular-biology",
+    "programCount": 6
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-operations-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-organizational-behavior",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-policy-analysis",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-project-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-public-speaking",
+    "programCount": 9
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-quality-control",
+    "programCount": 7
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-quantitative-reasoning",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-research",
+    "programCount": 12
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-research-methods",
+    "programCount": 5
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-rhetorical-analysis",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-scientific-writing",
+    "programCount": 7
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-search-engine-optimization",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-social-policy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-software-testing",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-sql",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-statistical-analysis",
+    "programCount": 9
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-strategic-communication",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-typography",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-user-experience-design",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-video-production",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-visual-communication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-water-quality-testing",
+    "programCount": 3
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 12
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 13
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 14
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 11
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 12
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 10
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 16
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 12
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 10
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-0d5feb54d2df",
+    "programCount": 4
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-18885f27b5af",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-4828e60247c1",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-654a61e7ae7d",
+    "programCount": 9
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-8c2574892063",
+    "programCount": 5
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-a64976f1c471",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-b07bff47c8c6",
+    "programCount": 2
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-b949c922b6ef",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-bebcb3119440",
+    "programCount": 1
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-66df01b09926",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-0e77a35d9bad",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-cc72f715cd53",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "credential-practical-nurse-license",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-controls-troubleshooting",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-7904705542a1",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-7e4c422d035e",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-b9eb7064fd2f",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "domain-cost-control",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-a8fd0de55366",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-0de89bc0b662",
+    "programCount": 0
+  },
+  {
+    "institutionId": "willow-creek-college",
+    "skillId": "technology-59229a706dcd",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-appointment-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-automotive-diagnostics",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-baking",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-blueprint-reading",
+    "programCount": 9
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-brake-systems",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-budgeting",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-building-codes",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-business-analysis",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-business-communication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-carpentry",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-child-development",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-child-safety",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-circuit-analysis",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-classroom-management",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-concrete-construction",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-conduit-bending",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-construction-estimating",
+    "programCount": 5
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-construction-layout",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-controls-troubleshooting",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-cost-control",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-demand-forecasting",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-developmental-assessment",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-drivetrain-repair",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-early-literacy",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-electrical-installation",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-electrical-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-electrical-troubleshooting",
+    "programCount": 7
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-electrocardiography",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-engine-repair",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-erp-systems",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-family-engagement",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-financial-analysis",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-food-preparation",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-food-safety",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-gas-metal-arc-welding",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-gas-tungsten-arc-welding",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-hvac-installation",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-hybrid-vehicle-systems",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-hydraulics",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-inclusive-education",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-industrial-robotics",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-infection-prevention",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-inventory-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-jobsite-safety",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-kitchen-management",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-knife-skills",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-lesson-planning",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-logistics-planning",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-medical-terminology",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-medication-administration",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-menu-planning",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-metal-fabrication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-motor-controls",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-national-electrical-code",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-operations-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-organizational-behavior",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-oxyfuel-cutting",
+    "programCount": 1
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-patient-education",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-patient-intake",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-patient-mobility",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-phlebotomy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-pneumatics",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-preventive-maintenance",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-process-improvement",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-procurement",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-programmable-logic-controllers",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-project-management",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-project-scheduling",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-refrigeration-systems",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-research",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-sensors-and-instrumentation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-service-documentation",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-shielded-metal-arc-welding",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-shop-safety",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-system-commissioning",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-vital-signs-monitoring",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-warehouse-operations",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-welding-inspection",
+    "programCount": 3
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-wound-care",
+    "programCount": 2
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 12
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 9
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 12
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 9
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 11
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 6
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 19
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 12
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 5
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-654a61e7ae7d",
+    "programCount": 4
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-87771745c941",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-ecological-assessment",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-0d5feb54d2df",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-mechanical-design",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-eef660c7f920",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-0b15cb4d8b48",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-17cc802361b8",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-3291bc1c6032",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-22d4998b7fd0",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "domain-water-quality-testing",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-9177113c601d",
+    "programCount": 0
+  },
+  {
+    "institutionId": "yakima-valley-poly",
+    "skillId": "technology-00015370d398",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-airway-management",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-anatomy-and-physiology",
+    "programCount": 9
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-appointment-scheduling",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-biostatistics",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-cardiopulmonary-resuscitation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-care-planning",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-cell-culture",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-clinical-documentation",
+    "programCount": 11
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-community-assessment",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-data-analysis",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-data-quality",
+    "programCount": 1
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-electrocardiography",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-emergency-assessment",
+    "programCount": 4
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-emergency-communication",
+    "programCount": 4
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-epidemiology",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-evidence-based-practice",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-experimental-design",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-health-communication",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-health-information-privacy",
+    "programCount": 1
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-health-promotion",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-icd-10-cm",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-image-evaluation",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-infection-prevention",
+    "programCount": 8
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-medical-coding",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-medical-terminology",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-medication-administration",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-microscopy",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-molecular-biology",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-patient-assessment",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-patient-education",
+    "programCount": 4
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-patient-intake",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-patient-mobility",
+    "programCount": 1
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-patient-transport",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-phlebotomy",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-program-evaluation",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-quality-control",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-radiation-safety",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-radiographic-positioning",
+    "programCount": 3
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-research",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-research-methods",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-revenue-cycle-management",
+    "programCount": 1
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-scientific-writing",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-trauma-care",
+    "programCount": 4
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-vital-signs-monitoring",
+    "programCount": 4
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-wound-care",
+    "programCount": 2
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.a",
+    "programCount": 10
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.b",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.c",
+    "programCount": 10
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.d",
+    "programCount": 7
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.e",
+    "programCount": 8
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.1.f",
+    "programCount": 6
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.A.2.a",
+    "programCount": 14
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.B.1.a",
+    "programCount": 10
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.B.4.e",
+    "programCount": 8
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-8c2574892063",
+    "programCount": 5
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-baking",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-22265513dd53",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-58e2939733a5",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-9f865d0d84bd",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-9f942418b4d9",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-457163992231",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-4aaad8db9e91",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-507e98c562e1",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-85db5da98402",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "domain-kitchen-management",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "onet-skill-2.B.5.d",
+    "programCount": 0
+  },
+  {
+    "institutionId": "rainier-health",
+    "skillId": "technology-5b9bf6bf5f38",
+    "programCount": 0
+  }
+]

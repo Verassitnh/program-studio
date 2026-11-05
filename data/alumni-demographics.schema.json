@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-demographics.schema.json",
+  "title": "Alumni demographics",
+  "description": "Sensitive institution-supplied demographic classifications. Categories remain qualified data values, not hard-coded universal enums.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "birthYear": {
+      "anyOf": [
+        {
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "gender": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/classification"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "race": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/definitions/classification"
+      }
+    },
+    "ethnicity": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/definitions/classification"
+      }
+    },
+    "graduationAgeBand": {
+      "$ref": "common.schema.json#/definitions/classification"
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "birthYear": 1998,
+      "gender": null,
+      "race": [],
+      "ethnicity": []
+    }
+  ]
+}

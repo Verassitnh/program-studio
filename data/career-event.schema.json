@@ -1,0 +1,86 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "career-event.schema.json",
+  "title": "Career event",
+  "description": "An employment or education event, optionally observed at a post-education checkpoint. Checkpoints contain actual elapsed years, not report bucket IDs. An event is not a unique person.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "type": {
+      "enum": [
+        "education",
+        "employment"
+      ]
+    },
+    "organization": {
+      "$ref": "common.schema.json#/definitions/namedReference"
+    },
+    "occupation": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "fieldOfStudy": {
+      "$ref": "common.schema.json#/definitions/classification"
+    },
+    "startDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "endDate": {
+      "$ref": "common.schema.json#/definitions/date"
+    },
+    "checkpoint": {
+      "$ref": "common.schema.json#/definitions/checkpoint"
+    },
+    "employedInField": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "estimatedWage": {
+      "anyOf": [
+        {
+          "$ref": "common.schema.json#/definitions/wage"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "type"
+  ],
+  "examples": [
+    {
+      "type": "employment",
+      "occupation": {
+        "taxonomyId": "soc_2021",
+        "code": "15-1252"
+      },
+      "organization": {
+        "id": "employer-1",
+        "name": "Example Employer"
+      },
+      "checkpoint": {
+        "yearsAfterEducation": 3,
+        "openEnded": false
+      },
+      "employedInField": true,
+      "estimatedWage": {
+        "amount": 85000,
+        "currency": "USD",
+        "period": "year"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "alumni-skills.schema.json",
+  "title": "Alumni skill assignment",
+  "description": "One skill or qualification associated with an alumni profile. Skill type belongs to the master skill record, not separate hard/soft/certification transport arrays.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/classes/packet/packet_alumni_pathways.class.inc",
+    "includes/namespaces/alumnipathwaysapi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "skillId": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "skillId"
+  ],
+  "examples": [
+    {
+      "skillId": "skill-programming"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "certificate",
+    "name": "Undergraduate certificate",
+    "category": "Undergraduate certificate"
+  },
+  {
+    "id": "associate",
+    "name": "Associate degree",
+    "category": "Associate degree"
+  },
+  {
+    "id": "bachelor",
+    "name": "Undergraduate degree",
+    "category": "Undergraduate degree"
+  },
+  {
+    "id": "master",
+    "name": "Graduate degree",
+    "category": "Graduate degree"
+  },
+  {
+    "id": "graduate-certificate",
+    "name": "Graduate certificate",
+    "category": "Graduate certificate"
+  },
+  {
+    "id": "apprenticeship",
+    "name": "Apprenticeship",
+    "category": "Apprenticeship"
+  }
+]

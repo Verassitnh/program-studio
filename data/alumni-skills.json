@@ -1,0 +1,1286 @@
+[
+  {
+    "skillId": "domain-application-programming-interfaces"
+  },
+  {
+    "skillId": "domain-java"
+  },
+  {
+    "skillId": "domain-software-testing"
+  },
+  {
+    "skillId": "domain-sql"
+  },
+  {
+    "skillId": "domain-statistical-modeling"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.e"
+  },
+  {
+    "skillId": "onet-skill-2.B.4.e"
+  },
+  {
+    "skillId": "technology-18885f27b5af"
+  },
+  {
+    "skillId": "technology-aa81772ccc62"
+  },
+  {
+    "skillId": "technology-b949c922b6ef"
+  },
+  {
+    "skillId": "domain-budgeting"
+  },
+  {
+    "skillId": "domain-data-visualization"
+  },
+  {
+    "skillId": "domain-econometrics"
+  },
+  {
+    "skillId": "domain-financial-analysis"
+  },
+  {
+    "skillId": "domain-organizational-behavior"
+  },
+  {
+    "skillId": "domain-project-management"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.d"
+  },
+  {
+    "skillId": "onet-skill-2.A.2.a"
+  },
+  {
+    "skillId": "technology-493ff462dc63"
+  },
+  {
+    "skillId": "technology-86713a5583ad"
+  },
+  {
+    "skillId": "technology-8c2574892063"
+  },
+  {
+    "skillId": "technology-e86755d376aa"
+  },
+  {
+    "skillId": "domain-control-systems"
+  },
+  {
+    "skillId": "domain-electrical-safety"
+  },
+  {
+    "skillId": "domain-embedded-systems"
+  },
+  {
+    "skillId": "domain-pcb-design"
+  },
+  {
+    "skillId": "domain-power-systems"
+  },
+  {
+    "skillId": "domain-signal-processing"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.a"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.c"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.f"
+  },
+  {
+    "skillId": "technology-1c36a8d898b8"
+  },
+  {
+    "skillId": "technology-2f83b6ede8a1"
+  },
+  {
+    "skillId": "domain-behavioral-assessment"
+  },
+  {
+    "skillId": "domain-statistical-analysis"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.b"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.c"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.b"
+  },
+  {
+    "skillId": "domain-collaboration"
+  },
+  {
+    "skillId": "domain-information-literacy"
+  },
+  {
+    "skillId": "domain-quantitative-reasoning"
+  },
+  {
+    "skillId": "domain-research"
+  },
+  {
+    "skillId": "onet-skill-2.B.2.i"
+  },
+  {
+    "skillId": "onet-skill-2.B.5.a"
+  },
+  {
+    "skillId": "technology-ac97bd1e63e3"
+  },
+  {
+    "skillId": "technology-f43663342216"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.a"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.d"
+  },
+  {
+    "skillId": "technology-2b94da8574ed"
+  },
+  {
+    "skillId": "technology-4aaad8db9e91"
+  },
+  {
+    "skillId": "technology-654a61e7ae7d"
+  },
+  {
+    "skillId": "technology-854365934d75"
+  },
+  {
+    "skillId": "technology-b3f7d639acb1"
+  },
+  {
+    "skillId": "domain-business-communication"
+  },
+  {
+    "skillId": "domain-operations-management"
+  },
+  {
+    "skillId": "domain-clinical-documentation"
+  },
+  {
+    "skillId": "domain-matlab"
+  },
+  {
+    "skillId": "domain-public-speaking"
+  },
+  {
+    "skillId": "technology-0392a043f080"
+  },
+  {
+    "skillId": "technology-51e2c34a3585"
+  },
+  {
+    "skillId": "technology-9be4cdd44cf7"
+  },
+  {
+    "skillId": "domain-data-structures"
+  },
+  {
+    "skillId": "domain-distributed-systems"
+  },
+  {
+    "skillId": "domain-experimental-design"
+  },
+  {
+    "skillId": "technology-f0f373d1c2a6"
+  },
+  {
+    "skillId": "domain-business-analysis"
+  },
+  {
+    "skillId": "domain-cultural-analysis"
+  },
+  {
+    "skillId": "technology-557f704dcbe8"
+  },
+  {
+    "skillId": "domain-employment-law"
+  },
+  {
+    "skillId": "domain-hr-information-systems"
+  },
+  {
+    "skillId": "domain-recruiting"
+  },
+  {
+    "skillId": "technology-7baea027f7a3"
+  },
+  {
+    "skillId": "domain-engineering-drawing"
+  },
+  {
+    "skillId": "domain-finite-element-analysis"
+  },
+  {
+    "skillId": "domain-manufacturing-processes"
+  },
+  {
+    "skillId": "domain-materials-science"
+  },
+  {
+    "skillId": "domain-solidworks"
+  },
+  {
+    "skillId": "domain-thermodynamics"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.f"
+  },
+  {
+    "skillId": "technology-34394c7b3115"
+  },
+  {
+    "skillId": "domain-erp-systems"
+  },
+  {
+    "skillId": "domain-inventory-management"
+  },
+  {
+    "skillId": "domain-logistics-planning"
+  },
+  {
+    "skillId": "domain-process-improvement"
+  },
+  {
+    "skillId": "domain-procurement"
+  },
+  {
+    "skillId": "domain-warehouse-operations"
+  },
+  {
+    "skillId": "technology-1dc43ae1c3bb"
+  },
+  {
+    "skillId": "technology-65de44f14ddc"
+  },
+  {
+    "skillId": "technology-9bece0dc1054"
+  },
+  {
+    "skillId": "domain-content-strategy"
+  },
+  {
+    "skillId": "domain-data-interpretation"
+  },
+  {
+    "skillId": "domain-digital-storytelling"
+  },
+  {
+    "skillId": "domain-interviewing"
+  },
+  {
+    "skillId": "domain-research-methods"
+  },
+  {
+    "skillId": "domain-case-management"
+  },
+  {
+    "skillId": "domain-client-advocacy"
+  },
+  {
+    "skillId": "domain-ethics"
+  },
+  {
+    "skillId": "domain-child-development"
+  },
+  {
+    "skillId": "domain-classroom-management"
+  },
+  {
+    "skillId": "domain-educational-technology"
+  },
+  {
+    "skillId": "domain-family-engagement"
+  },
+  {
+    "skillId": "domain-lesson-planning"
+  },
+  {
+    "skillId": "technology-06600810f6d3"
+  },
+  {
+    "skillId": "technology-cba97b60adbc"
+  },
+  {
+    "skillId": "domain-mechanical-design"
+  },
+  {
+    "skillId": "technology-9f942418b4d9"
+  },
+  {
+    "skillId": "domain-social-policy"
+  },
+  {
+    "skillId": "technology-8bf9482ae93c"
+  },
+  {
+    "skillId": "technology-a19f2436c6fc"
+  },
+  {
+    "skillId": "credential-registered-nurse-rn"
+  },
+  {
+    "skillId": "domain-evidence-based-practice"
+  },
+  {
+    "skillId": "domain-infection-prevention"
+  },
+  {
+    "skillId": "domain-medication-administration"
+  },
+  {
+    "skillId": "domain-patient-assessment"
+  },
+  {
+    "skillId": "domain-patient-education"
+  },
+  {
+    "skillId": "technology-0687f4a8a64d"
+  },
+  {
+    "skillId": "technology-59fb3174bb34"
+  },
+  {
+    "skillId": "technology-b05b66bdc16d"
+  },
+  {
+    "skillId": "technology-dd3f9105b886"
+  },
+  {
+    "skillId": "domain-assessment-design"
+  },
+  {
+    "skillId": "technology-d41f5b4977ee"
+  },
+  {
+    "skillId": "domain-audience-analysis"
+  },
+  {
+    "skillId": "domain-campaign-management"
+  },
+  {
+    "skillId": "domain-consumer-behavior"
+  },
+  {
+    "skillId": "domain-digital-marketing"
+  },
+  {
+    "skillId": "domain-media-writing"
+  },
+  {
+    "skillId": "technology-77d85906ecd6"
+  },
+  {
+    "skillId": "domain-algorithms"
+  },
+  {
+    "skillId": "domain-data-cleaning"
+  },
+  {
+    "skillId": "domain-machine-learning"
+  },
+  {
+    "skillId": "technology-4828e60247c1"
+  },
+  {
+    "skillId": "technology-9836b40dcecb"
+  },
+  {
+    "skillId": "domain-policy-analysis"
+  },
+  {
+    "skillId": "technology-bebcb3119440"
+  },
+  {
+    "skillId": "domain-digital-forensics"
+  },
+  {
+    "skillId": "domain-identity-and-access-management"
+  },
+  {
+    "skillId": "domain-network-security"
+  },
+  {
+    "skillId": "domain-risk-assessment"
+  },
+  {
+    "skillId": "domain-vulnerability-assessment"
+  },
+  {
+    "skillId": "technology-06bfff4c7ca7"
+  },
+  {
+    "skillId": "domain-cell-culture"
+  },
+  {
+    "skillId": "domain-data-analysis"
+  },
+  {
+    "skillId": "domain-laboratory-safety"
+  },
+  {
+    "skillId": "domain-microscopy"
+  },
+  {
+    "skillId": "domain-molecular-biology"
+  },
+  {
+    "skillId": "domain-quality-control"
+  },
+  {
+    "skillId": "domain-scientific-writing"
+  },
+  {
+    "skillId": "technology-a9d35ae9c3c3"
+  },
+  {
+    "skillId": "domain-inclusive-education"
+  },
+  {
+    "skillId": "domain-literacy-instruction"
+  },
+  {
+    "skillId": "onet-skill-2.A.2.c"
+  },
+  {
+    "skillId": "technology-457163992231"
+  },
+  {
+    "skillId": "domain-care-planning"
+  },
+  {
+    "skillId": "credential-comptia-a"
+  },
+  {
+    "skillId": "domain-cloud-computing"
+  },
+  {
+    "skillId": "domain-it-service-management"
+  },
+  {
+    "skillId": "domain-network-administration"
+  },
+  {
+    "skillId": "domain-technical-support"
+  },
+  {
+    "skillId": "domain-windows-administration"
+  },
+  {
+    "skillId": "onet-skill-2.A.2.b"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.k"
+  },
+  {
+    "skillId": "technology-59813d9e83ce"
+  },
+  {
+    "skillId": "technology-736155b7dad3"
+  },
+  {
+    "skillId": "technology-e71ae040c49a"
+  },
+  {
+    "skillId": "technology-f6d6978a18d7"
+  },
+  {
+    "skillId": "domain-market-research"
+  },
+  {
+    "skillId": "domain-civil-3d"
+  },
+  {
+    "skillId": "domain-construction-estimating"
+  },
+  {
+    "skillId": "domain-geotechnical-engineering"
+  },
+  {
+    "skillId": "domain-hydrology"
+  },
+  {
+    "skillId": "domain-project-scheduling"
+  },
+  {
+    "skillId": "domain-structural-analysis"
+  },
+  {
+    "skillId": "domain-surveying"
+  },
+  {
+    "skillId": "onet-skill-2.A.2.d"
+  },
+  {
+    "skillId": "technology-704d0e44a731"
+  },
+  {
+    "skillId": "technology-97683fd67f2a"
+  },
+  {
+    "skillId": "technology-a613292a781f"
+  },
+  {
+    "skillId": "domain-community-resources"
+  },
+  {
+    "skillId": "domain-crisis-intervention"
+  },
+  {
+    "skillId": "domain-search-engine-optimization"
+  },
+  {
+    "skillId": "technology-a64976f1c471"
+  },
+  {
+    "skillId": "technology-baaa9628fa12"
+  },
+  {
+    "skillId": "domain-ecological-assessment"
+  },
+  {
+    "skillId": "domain-environmental-regulation"
+  },
+  {
+    "skillId": "domain-environmental-sampling"
+  },
+  {
+    "skillId": "domain-field-documentation"
+  },
+  {
+    "skillId": "domain-water-quality-testing"
+  },
+  {
+    "skillId": "domain-fluid-mechanics"
+  },
+  {
+    "skillId": "technology-a37430e22cd0"
+  },
+  {
+    "skillId": "technology-4e4a16f7019a"
+  },
+  {
+    "skillId": "domain-layout-design"
+  },
+  {
+    "skillId": "domain-visual-communication"
+  },
+  {
+    "skillId": "technology-efd50f1dfcdd"
+  },
+  {
+    "skillId": "technology-f1deb75fa21d"
+  },
+  {
+    "skillId": "domain-anatomy-and-physiology"
+  },
+  {
+    "skillId": "onet-skill-2.B.1.e"
+  },
+  {
+    "skillId": "technology-5f4fee75159d"
+  },
+  {
+    "skillId": "technology-057be82d53bc"
+  },
+  {
+    "skillId": "domain-economic-analysis"
+  },
+  {
+    "skillId": "domain-autocad"
+  },
+  {
+    "skillId": "onet-skill-2.A.1.e"
+  },
+  {
+    "skillId": "technology-25d9678d5751"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.a"
+  },
+  {
+    "skillId": "technology-222aa51935e7"
+  },
+  {
+    "skillId": "technology-d945cf99922a"
+  },
+  {
+    "skillId": "domain-auditing"
+  },
+  {
+    "skillId": "domain-cost-accounting"
+  },
+  {
+    "skillId": "domain-financial-accounting"
+  },
+  {
+    "skillId": "domain-quickbooks"
+  },
+  {
+    "skillId": "domain-tax-preparation"
+  },
+  {
+    "skillId": "technology-dff2178ac427"
+  },
+  {
+    "skillId": "technology-8705eae945e2"
+  },
+  {
+    "skillId": "technology-fb7accfff8c6"
+  },
+  {
+    "skillId": "domain-biostatistics"
+  },
+  {
+    "skillId": "domain-epidemiology"
+  },
+  {
+    "skillId": "domain-health-promotion"
+  },
+  {
+    "skillId": "domain-program-evaluation"
+  },
+  {
+    "skillId": "domain-typography"
+  },
+  {
+    "skillId": "technology-0d5feb54d2df"
+  },
+  {
+    "skillId": "technology-b78d1b9354b6"
+  },
+  {
+    "skillId": "domain-demand-forecasting"
+  },
+  {
+    "skillId": "technology-c9b4cb6697e6"
+  },
+  {
+    "skillId": "credential-comptia-security"
+  },
+  {
+    "skillId": "domain-incident-response"
+  },
+  {
+    "skillId": "technology-2b9ace1aac04"
+  },
+  {
+    "skillId": "domain-employee-relations"
+  },
+  {
+    "skillId": "domain-training-design"
+  },
+  {
+    "skillId": "domain-circuit-analysis"
+  },
+  {
+    "skillId": "domain-copyediting"
+  },
+  {
+    "skillId": "domain-video-production"
+  },
+  {
+    "skillId": "domain-community-assessment"
+  },
+  {
+    "skillId": "domain-health-communication"
+  },
+  {
+    "skillId": "domain-internal-controls"
+  },
+  {
+    "skillId": "domain-editing"
+  },
+  {
+    "skillId": "domain-rhetorical-analysis"
+  },
+  {
+    "skillId": "onet-skill-2.B.4.g"
+  },
+  {
+    "skillId": "technology-2f6d58645a27"
+  },
+  {
+    "skillId": "technology-5df646e55026"
+  },
+  {
+    "skillId": "technology-f23c19405d0a"
+  },
+  {
+    "skillId": "technology-497692b4b2d2"
+  },
+  {
+    "skillId": "technology-dda8e93e0b48"
+  },
+  {
+    "skillId": "technology-66df01b09926"
+  },
+  {
+    "skillId": "technology-c1734ebab8b3"
+  },
+  {
+    "skillId": "technology-16db859fcaf1"
+  },
+  {
+    "skillId": "technology-4d3b6f5e6b5f"
+  },
+  {
+    "skillId": "domain-strategic-communication"
+  },
+  {
+    "skillId": "technology-985143fa1209"
+  },
+  {
+    "skillId": "domain-gis"
+  },
+  {
+    "skillId": "technology-c93be971ed68"
+  },
+  {
+    "skillId": "technology-1d7d3f4c55ea"
+  },
+  {
+    "skillId": "domain-financial-reporting"
+  },
+  {
+    "skillId": "domain-figma"
+  },
+  {
+    "skillId": "domain-benefits-administration"
+  },
+  {
+    "skillId": "domain-performance-management"
+  },
+  {
+    "skillId": "domain-user-experience-design"
+  },
+  {
+    "skillId": "technology-d6dbad6f619b"
+  },
+  {
+    "skillId": "technology-f6b99878c2e2"
+  },
+  {
+    "skillId": "technology-54b22e0172a3"
+  },
+  {
+    "skillId": "technology-7da23a8ce206"
+  },
+  {
+    "skillId": "technology-d43101660ca2"
+  },
+  {
+    "skillId": "technology-dec6f66e46d0"
+  },
+  {
+    "skillId": "technology-78aeb390abbc"
+  },
+  {
+    "skillId": "technology-6e778eff05ec"
+  },
+  {
+    "skillId": "technology-e5208a4929a0"
+  },
+  {
+    "skillId": "technology-fc74325b4fa1"
+  },
+  {
+    "skillId": "technology-d59fde2fcc72"
+  },
+  {
+    "skillId": "technology-0a1bd3813616"
+  },
+  {
+    "skillId": "technology-a9464b40959d"
+  },
+  {
+    "skillId": "technology-22d4998b7fd0"
+  },
+  {
+    "skillId": "technology-345a16dccd33"
+  },
+  {
+    "skillId": "domain-bookkeeping"
+  },
+  {
+    "skillId": "technology-b6cd4f520c6e"
+  },
+  {
+    "skillId": "technology-c42ce2243749"
+  },
+  {
+    "skillId": "technology-8bb5e84b3860"
+  },
+  {
+    "skillId": "technology-42b7ea698039"
+  },
+  {
+    "skillId": "technology-4da6dfbdd1dc"
+  },
+  {
+    "skillId": "technology-cdf7fde3733f"
+  },
+  {
+    "skillId": "technology-aa98e1536b73"
+  },
+  {
+    "skillId": "technology-b07bff47c8c6"
+  },
+  {
+    "skillId": "technology-628bfe36245c"
+  },
+  {
+    "skillId": "technology-308b4fab09c1"
+  },
+  {
+    "skillId": "technology-67321147adb0"
+  },
+  {
+    "skillId": "technology-aa6eaba11d5a"
+  },
+  {
+    "skillId": "technology-aa41c24174eb"
+  },
+  {
+    "skillId": "onet-skill-2.B.5.d"
+  },
+  {
+    "skillId": "technology-832d0b5c5ba4"
+  },
+  {
+    "skillId": "technology-585761c965a7"
+  },
+  {
+    "skillId": "technology-948eaaefd195"
+  },
+  {
+    "skillId": "technology-d0c3ce0cf9a2"
+  },
+  {
+    "skillId": "technology-bc382cc23d6e"
+  },
+  {
+    "skillId": "technology-8ff7b29c130d"
+  },
+  {
+    "skillId": "technology-915ef4bad59a"
+  },
+  {
+    "skillId": "technology-52e53277f1c3"
+  },
+  {
+    "skillId": "technology-7041b2449dfa"
+  },
+  {
+    "skillId": "technology-422bebdd8ef1"
+  },
+  {
+    "skillId": "technology-d771d665c55d"
+  },
+  {
+    "skillId": "technology-f5b3c8e0c5a4"
+  },
+  {
+    "skillId": "technology-712297890c22"
+  },
+  {
+    "skillId": "technology-862a762ffa98"
+  },
+  {
+    "skillId": "technology-5f2dc8e6328a"
+  },
+  {
+    "skillId": "technology-1c7ab2c7356b"
+  },
+  {
+    "skillId": "technology-84aa76d5d845"
+  },
+  {
+    "skillId": "technology-dd84425b72da"
+  },
+  {
+    "skillId": "technology-6b23c0d5f35d"
+  },
+  {
+    "skillId": "technology-f152f671e10a"
+  },
+  {
+    "skillId": "domain-baking"
+  },
+  {
+    "skillId": "domain-cost-control"
+  },
+  {
+    "skillId": "domain-food-safety"
+  },
+  {
+    "skillId": "domain-kitchen-management"
+  },
+  {
+    "skillId": "domain-knife-skills"
+  },
+  {
+    "skillId": "domain-menu-planning"
+  },
+  {
+    "skillId": "domain-electrical-installation"
+  },
+  {
+    "skillId": "domain-blueprint-reading"
+  },
+  {
+    "skillId": "domain-conduit-bending"
+  },
+  {
+    "skillId": "domain-motor-controls"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.l"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.m"
+  },
+  {
+    "skillId": "domain-medical-terminology"
+  },
+  {
+    "skillId": "domain-radiation-safety"
+  },
+  {
+    "skillId": "domain-radiographic-positioning"
+  },
+  {
+    "skillId": "domain-legal-ethics"
+  },
+  {
+    "skillId": "credential-aws-certified-welder"
+  },
+  {
+    "skillId": "domain-gas-metal-arc-welding"
+  },
+  {
+    "skillId": "domain-gas-tungsten-arc-welding"
+  },
+  {
+    "skillId": "domain-metal-fabrication"
+  },
+  {
+    "skillId": "domain-oxyfuel-cutting"
+  },
+  {
+    "skillId": "domain-shielded-metal-arc-welding"
+  },
+  {
+    "skillId": "domain-shop-safety"
+  },
+  {
+    "skillId": "domain-welding-inspection"
+  },
+  {
+    "skillId": "technology-6e259e4dc28f"
+  },
+  {
+    "skillId": "technology-748e188563ba"
+  },
+  {
+    "skillId": "domain-image-evaluation"
+  },
+  {
+    "skillId": "credential-certified-medical-assistant-cma"
+  },
+  {
+    "skillId": "domain-phlebotomy"
+  },
+  {
+    "skillId": "technology-62adc1bd1f56"
+  },
+  {
+    "skillId": "domain-appointment-scheduling"
+  },
+  {
+    "skillId": "domain-electrocardiography"
+  },
+  {
+    "skillId": "domain-civil-procedure"
+  },
+  {
+    "skillId": "domain-document-preparation"
+  },
+  {
+    "skillId": "domain-electronic-discovery"
+  },
+  {
+    "skillId": "domain-legal-research"
+  },
+  {
+    "skillId": "technology-4767c411a7d6"
+  },
+  {
+    "skillId": "domain-vital-signs-monitoring"
+  },
+  {
+    "skillId": "domain-patient-intake"
+  },
+  {
+    "skillId": "domain-legal-writing"
+  },
+  {
+    "skillId": "domain-electrical-troubleshooting"
+  },
+  {
+    "skillId": "domain-food-preparation"
+  },
+  {
+    "skillId": "credential-practical-nurse-license"
+  },
+  {
+    "skillId": "domain-wound-care"
+  },
+  {
+    "skillId": "domain-building-codes"
+  },
+  {
+    "skillId": "domain-carpentry"
+  },
+  {
+    "skillId": "domain-concrete-construction"
+  },
+  {
+    "skillId": "domain-construction-layout"
+  },
+  {
+    "skillId": "domain-jobsite-safety"
+  },
+  {
+    "skillId": "technology-a366c9c3eabd"
+  },
+  {
+    "skillId": "technology-f1c0b8178580"
+  },
+  {
+    "skillId": "credential-epa-section-608-certification"
+  },
+  {
+    "skillId": "domain-controls-troubleshooting"
+  },
+  {
+    "skillId": "domain-hvac-installation"
+  },
+  {
+    "skillId": "domain-refrigeration-systems"
+  },
+  {
+    "skillId": "domain-system-commissioning"
+  },
+  {
+    "skillId": "domain-data-quality"
+  },
+  {
+    "skillId": "domain-health-information-privacy"
+  },
+  {
+    "skillId": "domain-icd-10-cm"
+  },
+  {
+    "skillId": "domain-medical-coding"
+  },
+  {
+    "skillId": "domain-revenue-cycle-management"
+  },
+  {
+    "skillId": "technology-0e77a35d9bad"
+  },
+  {
+    "skillId": "technology-78a0667489d1"
+  },
+  {
+    "skillId": "domain-automotive-diagnostics"
+  },
+  {
+    "skillId": "domain-brake-systems"
+  },
+  {
+    "skillId": "domain-drivetrain-repair"
+  },
+  {
+    "skillId": "domain-engine-repair"
+  },
+  {
+    "skillId": "domain-hybrid-vehicle-systems"
+  },
+  {
+    "skillId": "technology-57b56a8345bf"
+  },
+  {
+    "skillId": "technology-a1bbb365a649"
+  },
+  {
+    "skillId": "technology-a875da4c7be2"
+  },
+  {
+    "skillId": "technology-1601b146fa69"
+  },
+  {
+    "skillId": "domain-child-safety"
+  },
+  {
+    "skillId": "domain-developmental-assessment"
+  },
+  {
+    "skillId": "domain-national-electrical-code"
+  },
+  {
+    "skillId": "technology-78d2afc27a91"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.g"
+  },
+  {
+    "skillId": "technology-4642114d35ab"
+  },
+  {
+    "skillId": "domain-patient-mobility"
+  },
+  {
+    "skillId": "technology-509c517ede79"
+  },
+  {
+    "skillId": "domain-early-literacy"
+  },
+  {
+    "skillId": "technology-f1f8e5c211e9"
+  },
+  {
+    "skillId": "technology-12ecb99c4eb9"
+  },
+  {
+    "skillId": "technology-727f5df03f7b"
+  },
+  {
+    "skillId": "credential-food-protection-manager-certification"
+  },
+  {
+    "skillId": "technology-60229054dc8b"
+  },
+  {
+    "skillId": "technology-631428921e7c"
+  },
+  {
+    "skillId": "technology-958d592553df"
+  },
+  {
+    "skillId": "domain-preventive-maintenance"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.d"
+  },
+  {
+    "skillId": "technology-30d32656296e"
+  },
+  {
+    "skillId": "domain-service-documentation"
+  },
+  {
+    "skillId": "credential-ase-automobile-certification"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.h"
+  },
+  {
+    "skillId": "onet-skill-2.B.3.j"
+  },
+  {
+    "skillId": "domain-airway-management"
+  },
+  {
+    "skillId": "domain-emergency-communication"
+  },
+  {
+    "skillId": "domain-patient-transport"
+  },
+  {
+    "skillId": "domain-trauma-care"
+  },
+  {
+    "skillId": "technology-3035ab6550db"
+  },
+  {
+    "skillId": "technology-39253ff0dbb2"
+  },
+  {
+    "skillId": "domain-cardiopulmonary-resuscitation"
+  },
+  {
+    "skillId": "domain-emergency-assessment"
+  },
+  {
+    "skillId": "technology-f72e919ea32f"
+  },
+  {
+    "skillId": "onet-skill-2.B.4.h"
+  },
+  {
+    "skillId": "technology-58e2939733a5"
+  },
+  {
+    "skillId": "technology-465047c17854"
+  },
+  {
+    "skillId": "domain-hydraulics"
+  },
+  {
+    "skillId": "domain-industrial-robotics"
+  },
+  {
+    "skillId": "domain-pneumatics"
+  },
+  {
+    "skillId": "domain-programmable-logic-controllers"
+  },
+  {
+    "skillId": "technology-8c67b22ea105"
+  },
+  {
+    "skillId": "technology-428fceb52fbb"
+  },
+  {
+    "skillId": "domain-sensors-and-instrumentation"
+  },
+  {
+    "skillId": "technology-9a5ac73f4d7c"
+  },
+  {
+    "skillId": "technology-acc08972fddf"
+  },
+  {
+    "skillId": "technology-8a7296c885d9"
+  },
+  {
+    "skillId": "technology-06b438f57229"
+  },
+  {
+    "skillId": "technology-a82b336c871f"
+  },
+  {
+    "skillId": "technology-8eb43f0aabdd"
+  },
+  {
+    "skillId": "technology-80f162eb0608"
+  },
+  {
+    "skillId": "technology-15f4da8363f7"
+  },
+  {
+    "skillId": "technology-f21f9a0fe374"
+  }
+]

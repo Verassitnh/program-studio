@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "target-occupation.schema.json",
+  "title": "Curriculum target occupation",
+  "description": "An explicitly intended employment destination for a program, distinct from a general field-of-study crosswalk or an occupation suggested by similarity.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/curricularskillsapi.inc",
+    "includes/namespaces/skillabi.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "taxonomyId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "code": {
+      "type": "string",
+      "minLength": 1
+    },
+    "level": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "taxonomyId",
+    "code"
+  ],
+  "examples": [
+    {
+      "taxonomyId": "soc_2021",
+      "code": "15-1252",
+      "level": "5"
+    }
+  ]
+}

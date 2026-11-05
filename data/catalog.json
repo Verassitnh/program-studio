@@ -1,0 +1,385 @@
+[
+  {
+    "schema": "common.schema.json",
+    "title": "Shared domain values",
+    "kind": "shared-value",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc",
+      "includes/namespaces/alumnipathwaysapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc",
+      "includes/classes/packet/packet_alumni_pathways.class.inc"
+    ],
+    "sampleFile": "common.json",
+    "sampleCount": 13,
+    "sampleOrigin": "mixed-reference"
+  },
+  {
+    "schema": "institution.schema.json",
+    "title": "Educational institution",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/alumnipathwaysslice.class.inc",
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/curricularskillsapi.inc"
+    ],
+    "sampleFile": "institution.json",
+    "sampleCount": 6,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "occupation.schema.json",
+    "title": "Occupation",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/classificationapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc",
+      "includes/classes/alumnipathwaysslice.class.inc"
+    ],
+    "sampleFile": "occupation.json",
+    "sampleCount": 1016,
+    "sampleOrigin": "public-reference"
+  },
+  {
+    "schema": "geography.schema.json",
+    "title": "Geographic area",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/classificationapi.inc",
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "geography.json",
+    "sampleCount": 3295,
+    "sampleOrigin": "public-reference"
+  },
+  {
+    "schema": "classification-concept.schema.json",
+    "title": "Classification concept",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/classificationapi.inc",
+      "includes/classes/alumnipathwaysslice.class.inc"
+    ],
+    "sampleFile": "classification-concept.json",
+    "sampleCount": 3227,
+    "sampleOrigin": "mixed-reference"
+  },
+  {
+    "schema": "program-type.schema.json",
+    "title": "Curriculum program type",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc"
+    ],
+    "sampleFile": "program-type.json",
+    "sampleCount": 6,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "skill.schema.json",
+    "title": "Skill",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/skillsapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "skill.json",
+    "sampleCount": 670,
+    "sampleOrigin": "mixed-reference"
+  },
+  {
+    "schema": "curricular-skill.schema.json",
+    "title": "Curriculum skill assignment",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc",
+      "js/react/skillabi/utils/functions.js"
+    ],
+    "sampleFile": "curricular-skill.json",
+    "sampleCount": 457,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "program-course.schema.json",
+    "title": "Program course membership",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc"
+    ],
+    "sampleFile": "program-course.json",
+    "sampleCount": 1284,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "target-occupation.schema.json",
+    "title": "Curriculum target occupation",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc",
+      "includes/namespaces/skillabi.inc"
+    ],
+    "sampleFile": "target-occupation.json",
+    "sampleCount": 63,
+    "sampleOrigin": "mixed-reference"
+  },
+  {
+    "schema": "program.schema.json",
+    "title": "Curriculum program",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "program.json",
+    "sampleCount": 214,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "course.schema.json",
+    "title": "Course",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc"
+    ],
+    "sampleFile": "course.json",
+    "sampleCount": 1058,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "education-program.schema.json",
+    "title": "Institution education program",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/alumnipathwaysslice.class.inc",
+      "includes/classes/packet/packet_alumni_pathways.class.inc"
+    ],
+    "sampleFile": "education-program.json",
+    "sampleCount": 214,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "program-occupation-mapping.schema.json",
+    "title": "Field-of-study occupation crosswalk",
+    "kind": "source-data",
+    "sources": [
+      "api/endpoints/programoccmapping.php",
+      "includes/namespaces/skillabi.inc"
+    ],
+    "sampleFile": "program-occupation-mapping.json",
+    "sampleCount": 76,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "classification-mapping.schema.json",
+    "title": "Classification crosswalk relationship",
+    "kind": "source-data",
+    "sources": [
+      "includes/namespaces/classificationapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "classification-mapping.json",
+    "sampleCount": 1016,
+    "sampleOrigin": "mixed-reference"
+  },
+  {
+    "schema": "similarity-match.schema.json",
+    "title": "Similarity observation",
+    "kind": "derived-data",
+    "sources": [
+      "includes/namespaces/similaritiesapi.inc"
+    ],
+    "sampleFile": "similarity-match.json",
+    "sampleCount": 368,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "posting-metrics.schema.json",
+    "title": "Job-posting demand observation",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_skillabi.class.inc",
+      "includes/namespaces/jpaapi.inc",
+      "api-specs/jpa-us.json"
+    ],
+    "sampleFile": "posting-metrics.json",
+    "sampleCount": 1728,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "weighted-skill.schema.json",
+    "title": "Weighted benchmark skill",
+    "kind": "derived-data",
+    "sources": [
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "weighted-skill.json",
+    "sampleCount": 7460,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "occupation-benchmark.schema.json",
+    "title": "Occupation skill benchmark",
+    "kind": "derived-data",
+    "sources": [
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "occupation-benchmark.json",
+    "sampleCount": 576,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "posting-growth.schema.json",
+    "title": "Job-posting growth observation",
+    "kind": "derived-data",
+    "sources": [
+      "includes/classes/packet/packet_skillabi.class.inc",
+      "includes/classes/datamonkey.class.inc"
+    ],
+    "sampleFile": "posting-growth.json",
+    "sampleCount": 1152,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "occupation-alignment.schema.json",
+    "title": "Curriculum occupation alignment",
+    "kind": "derived-data",
+    "sources": [
+      "includes/classes/packet/packet_skillabi.class.inc",
+      "includes/namespaces/skillabi.inc"
+    ],
+    "sampleFile": "occupation-alignment.json",
+    "sampleCount": 677,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "salary-boosting-skill.schema.json",
+    "title": "Salary-boosting skill relationship",
+    "kind": "derived-data",
+    "sources": [
+      "includes/namespaces/salaryboostingskillsapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "salary-boosting-skill.json",
+    "sampleCount": 162,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "skill-program-count.schema.json",
+    "title": "Program coverage of a skill",
+    "kind": "derived-data",
+    "sources": [
+      "includes/namespaces/curricularskillsapi.inc",
+      "includes/classes/packet/packet_skillabi.class.inc"
+    ],
+    "sampleFile": "skill-program-count.json",
+    "sampleCount": 738,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-education.schema.json",
+    "title": "Institution education and award",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-education.json",
+    "sampleCount": 1800,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-employment.schema.json",
+    "title": "Alumni employment observation",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-employment.json",
+    "sampleCount": 1989,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-location.schema.json",
+    "title": "Alumni residence observation",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-location.json",
+    "sampleCount": 85,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-demographics.schema.json",
+    "title": "Alumni demographics",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-demographics.json",
+    "sampleCount": 1467,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-skills.schema.json",
+    "title": "Alumni skill assignment",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-skills.json",
+    "sampleCount": 428,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-pii.schema.json",
+    "title": "Restricted alumni identity and contact data",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc"
+    ],
+    "sampleFile": "alumni-pii.json",
+    "sampleCount": 2069,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "nsc-education.schema.json",
+    "title": "Clearinghouse education history",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "nsc-education.json",
+    "sampleCount": 2132,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "career-event.schema.json",
+    "title": "Career event",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "career-event.json",
+    "sampleCount": 9363,
+    "sampleOrigin": "fictional-scenario"
+  },
+  {
+    "schema": "alumni-record.schema.json",
+    "title": "Alumni education and outcomes record",
+    "kind": "source-data",
+    "sources": [
+      "includes/classes/packet/packet_alumni_pathways.class.inc",
+      "includes/namespaces/alumnipathwaysapi.inc"
+    ],
+    "sampleFile": "alumni-record.json",
+    "sampleCount": 2685,
+    "sampleOrigin": "fictional-scenario"
+  }
+]

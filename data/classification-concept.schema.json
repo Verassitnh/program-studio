@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "classification-concept.schema.json",
+  "title": "Classification concept",
+  "description": "A reference value such as a CIP field of study, degree level, industry, or demographic category. A taxonomy identifier distinguishes meanings of identical codes.",
+  "$comment": "Portable prototype model. Domain meaning is informed by the source files; this is intentionally NOT their legacy payload format. See README.md for mapping decisions.",
+  "x-data-kind": "source-data",
+  "x-source-files": [
+    "includes/namespaces/classificationapi.inc",
+    "includes/classes/alumnipathwaysslice.class.inc"
+  ],
+  "type": "object",
+  "properties": {
+    "taxonomyId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "code": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "description": {
+      "type": "string"
+    },
+    "level": {
+      "type": "string"
+    },
+    "parent": {
+      "$ref": "common.schema.json#/definitions/classification"
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "taxonomyId",
+    "code",
+    "name"
+  ],
+  "examples": [
+    {
+      "taxonomyId": "cip_2020",
+      "code": "11.0701",
+      "name": "Computer Science",
+      "level": "6"
+    }
+  ]
+}

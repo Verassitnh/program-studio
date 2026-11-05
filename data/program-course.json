@@ -1,0 +1,5138 @@
+[
+  {
+    "courseId": "course-north-sound-state-accounting-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-biology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-phil",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-civil-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-civil-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-civil-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-eng",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-it-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-505",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-art",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-economics-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-environment-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-education-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-civil-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-english-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-design-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-environment-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-soc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-stat",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-hr-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-psyc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-it-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-it-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-it-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-liberal-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-communication-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-eng2",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-hr-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-general-hist",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-english-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-economics-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-education-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-education-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-502",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-506",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-ee-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-509",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-505",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-eth",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-hr-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-comm",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cs-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cs-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-507",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-design-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-hr-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-502",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-hr-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-508",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-economics-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-me-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-it-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-data-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cs-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-504",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-506",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-publichealth-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-507",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-business-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-business-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-communication-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-509",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cs-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-507",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-data-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-cs-502",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-english-500",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-english-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-hr-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-501",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-socialwork-506",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-biology-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-nursing-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-me-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-english-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-environment-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-environment-508",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-environment-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-504",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-economics-505",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-economics-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-economics-509",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-psychology-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-505",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-biology-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-500",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-508",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-north-sound-state-supply-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-supply-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-biology-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-communication-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-cyber-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-marketing-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-civil-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-accounting-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-education-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-ee-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-north-sound-state-english-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eng2",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-auto-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-soc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-phil",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-stat",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-psyc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-culinary-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eth",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-hist",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-comm",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-cyber-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-ma-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-nursing-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-publichealth-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-publichealth-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-pn-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-emt-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-psychology-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-rad-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-general-eng",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-electrical-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-construction-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hvac-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-biology-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-paralegal-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-it-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-design-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-hit-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-welding-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-business-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-liberal-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-supply-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-spokane-valley-cc-accounting-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-spokane-valley-cc-earlychild-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-auto-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-phil",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-culinary-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-eth",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-ma-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-emt-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-mechatronics-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-general-eng",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-hvac-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-supply-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-welding-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-business-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-construction-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-electrical-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-accounting-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-columbia-basin-tech-it-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-biology-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-psyc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-eng",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-communication-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-soc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-cs-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-eth",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-design-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-design-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-design-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-hist",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-art",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-design-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-general-phil",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-liberal-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-economics-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-environment-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-marketing-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-505",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-psychology-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-business-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-500",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-socialwork-509",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-504",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-willow-creek-college-english-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-willow-creek-college-english-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-auto-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-comm",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-construction-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-culinary-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-earlychild-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-hist",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-330",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-psyc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-phil",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-hvac-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-soc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-mechatronics-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-250",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-pn-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-ma-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-stat",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-business-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-electrical-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-welding-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-yakima-valley-poly-supply-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-210",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-emt-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-art",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-psyc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-eng",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-eng2",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-stat",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-psyc",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-soc",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-art",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-comm",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-ma-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-ma-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-hist",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-eth",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-sci",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-math",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-350",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-phil",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-sci",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-biology-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-biology-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-biology-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-biology-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-pn-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-270",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-pn-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-eng2",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-rad-290",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-hit-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-hist",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-math",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-rad-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-230",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-250",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-rad-310",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-330",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-rad-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-general-stat",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-biology-290",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-nursing-270",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-nursing-310",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-nursing-350",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-general-eth",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-biology-230",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-nursing-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-503",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-504",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-507",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-nursing-509",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-500",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-501",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-502",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-503",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-505",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-506",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-507",
+    "isRequired": false
+  },
+  {
+    "courseId": "course-rainier-health-publichealth-508",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-210",
+    "isRequired": true
+  },
+  {
+    "courseId": "course-rainier-health-emt-350",
+    "isRequired": false
+  }
+]

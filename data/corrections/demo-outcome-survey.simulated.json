@@ -1,0 +1,715 @@
+{
+  "simulated": true,
+  "description": "SIMULATED demo corrections. Not real data. Pretends an outcome survey and employer verification came back: fills in jobs for every Marketing, B.S. alumnus with no job on record (plus their missing wages), and for 6 reachable Business Administration, B.S. alumni. Applied only with `npm run db:sync -- --with-demo-corrections` or the 'simulated' toggle; never by `npm run db:import`.",
+  "dataset": "alumni-record",
+  "patches": [
+    {
+      "id": "alumni-north-sound-state-00256",
+      "note": "SIMULATED outcome survey answer (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-northwest-distribution-group",
+            "name": "Northwest Distribution Group"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Communications Specialist",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "27-3031.00",
+            "name": "Public Relations Specialists",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 51600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 69000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 73200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 44500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 58700,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 42800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 103500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00355",
+      "note": "SIMULATED outcome survey answer (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-harbor-retail-group",
+            "name": "Harbor Retail Group"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Marketing Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1161.00",
+            "name": "Market Research Analysts and Marketing Specialists",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 49600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 69000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 73200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 38200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 61000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 42800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 103500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00491",
+      "note": "SIMULATED outcome survey answer (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-willow-creek-credit-union",
+            "name": "Willow Creek Credit Union"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Marketing Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1161.00",
+            "name": "Market Research Analysts and Marketing Specialists",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 49100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 69700,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 73900,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 42100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 56100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 43200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 104500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00722",
+      "note": "SIMULATED outcome survey answer (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-harbor-retail-group",
+            "name": "Harbor Retail Group"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Marketing Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1161.00",
+            "name": "Market Research Analysts and Marketing Specialists",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 63600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 73000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 77400,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 54000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 73300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 45300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 109500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00039",
+      "note": "SIMULATED wage from employer verification (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-alder-financial-services",
+            "name": "Alder Financial Services"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Marketing Analyst",
+          "startDate": "2021-01-28",
+          "occupation": {
+            "code": "13-1161.00",
+            "name": "Market Research Analysts and Marketing Specialists",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 51600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": null,
+          "occupationAverageWage": null,
+          "startedAfterGraduation": true,
+          "occupationWage10thPercentile": null,
+          "occupationWage90thPercentile": null,
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00960",
+      "note": "SIMULATED wage from employer verification (Marketing, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-cascade-customer-solutions",
+            "name": "Cascade Customer Solutions"
+          },
+          "industry": {
+            "code": "service",
+            "name": "Retail and Customer Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Family Services Assistant",
+          "startDate": "2022-05-20",
+          "occupation": {
+            "code": "21-1093.00",
+            "name": "Social and Human Service Assistants",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 49600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": false,
+          "occupationMedianWage": {
+            "amount": 47600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 50400,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": null,
+          "occupationWage10thPercentile": {
+            "amount": 44000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 71400,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00015",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-columbia-supply-cooperative",
+            "name": "Columbia Supply Cooperative"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 49800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 65000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 68900,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": false,
+          "estimatedWage25thPercentile": {
+            "amount": 40800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 58800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 40300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 97500,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00111",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-alder-financial-services",
+            "name": "Alder Financial Services"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 83100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 79300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 84100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 69000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 97200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 49200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 119000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00138",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-alder-financial-services",
+            "name": "Alder Financial Services"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 53300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 79300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 84100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 44000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 63600,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 49200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 119000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00342",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-northwest-distribution-group",
+            "name": "Northwest Distribution Group"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 56400,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 79300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 84100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 44000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 68800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 49200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 119000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00486",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-summit-business-partners",
+            "name": "Summit Business Partners"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 80100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 79300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 84100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 70000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 90100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 49200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 119000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    },
+    {
+      "id": "alumni-north-sound-state-00681",
+      "note": "SIMULATED outcome survey answer (Business Administration, B.S.)",
+      "merge": {
+        "employment": {
+          "employer": {
+            "id": "employer-columbia-supply-cooperative",
+            "name": "Columbia Supply Cooperative"
+          },
+          "industry": {
+            "code": "business",
+            "name": "Finance and Business Services",
+            "taxonomyId": "demo:industry-group"
+          },
+          "jobTitle": "Business Analyst",
+          "startDate": "2026-09-01",
+          "occupation": {
+            "code": "13-1111.00",
+            "name": "Management Analysts",
+            "taxonomyId": "onet_soc_2019"
+          },
+          "estimatedWage": {
+            "amount": 70400,
+            "period": "year",
+            "currency": "USD"
+          },
+          "employedInField": true,
+          "occupationMedianWage": {
+            "amount": 79300,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationAverageWage": {
+            "amount": 84100,
+            "period": "year",
+            "currency": "USD"
+          },
+          "startedAfterGraduation": true,
+          "estimatedWage25thPercentile": {
+            "amount": 57900,
+            "period": "year",
+            "currency": "USD"
+          },
+          "estimatedWage75thPercentile": {
+            "amount": 82800,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage10thPercentile": {
+            "amount": 49200,
+            "period": "year",
+            "currency": "USD"
+          },
+          "occupationWage90thPercentile": {
+            "amount": 119000,
+            "period": "year",
+            "currency": "USD"
+          },
+          "simulatedCorrection": true
+        }
+      }
+    }
+  ]
+}
